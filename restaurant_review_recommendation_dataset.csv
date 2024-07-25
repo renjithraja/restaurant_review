@@ -1,0 +1,1011 @@
+Restaurant Name,Location,Food Type,Price,Veg or Non-Veg,Taste Level,Review,Rating,Age Category,Strength
+Urban Eateries,Riverside,American,83,No,Good,4 .1,2,Seniors,6
+Delicious Bites,City Center,Thai,73,Yes,Excellent,3 .1,2.3,Teens,4
+Urban Eateries,Downtown,Mediterranean,36,Yes,Average,3 .1,2.1,Teens,9
+Urban Eateries,Riverside,Thai,41,Yes,Excellent,5 .1,3.7,Seniors,2
+Urban Eateries,Riverside,Indian,61,No,,1 .1,2,Seniors,7
+Food Paradise,Suburbs,Chinese,79,Yes,Good,3 .1,2.8,Seniors,9
+Food Paradise,City Center,Thai,47,No,Poor,4 .1,3.7,Adults,1
+Delicious Bites,City Center,American,87,Yes,Poor,1 .1,3.4,Teens,3
+Savory Stop,Riverside,Japanese,55,Yes,Poor,5 .1,2.6,Adults,10
+Dine Divine,City Center,Mediterranean,86,Yes,Good,2 .1,3.4,Adults,4
+Food Paradise,Riverside,American,44,No,Excellent,2 .1,2.6,Kids,2
+Food Paradise,City Center,Italian,61,Yes,Poor,2 .1,4.1,Seniors,10
+Culinary Delight,Mountainview,Mexican,36,Yes,Good,5 .1,2.1,Kids,4
+Urban Eateries,Seaside,Mediterranean,47,No,Poor,1 .1,4.5,Kids,6
+Urban Eateries,Mountainview,Indian,43,No,Poor,1 .1,3,Teens,3
+Gourmet Corner,Mountainview,Thai,76,Yes,Average,4 .1,4.1,Teens,3
+Food Paradise,Downtown,Chinese,19,Yes,Good,1 .1,3.4,Kids,9
+Savory Stop,Seaside,Mexican,48,No,Excellent,2 .1,3.1,Teens,2
+Food Paradise,Seaside,Mexican,36,No,Good,2 .1,4.4,Teens,3
+Tasty Treats,Uptown,Chinese,11,Yes,Poor,3 .1,1.9,Kids,5
+Gourmet Corner,Seaside,Indian,38,No,Excellent,1 .1,2.8,Teens,9
+Tasty Treats,Mountainview,Mexican,25,No,Excellent,4 .1,1.3,Adults,7
+Culinary Delight,Uptown,Japanese,10,Yes,Excellent,1 .1,3.9,Adults,3
+Urban Eateries,Suburbs,Indian,26,Yes,Poor,5 .1,4.8,Kids,1
+Gourmet Corner,Suburbs,Japanese,39,Yes,Average,1 .1,3.4,Teens,5
+Tasty Treats,Suburbs,Mediterranean,71,Yes,Good,3 .1,4.5,Adults,5
+Gourmet Corner,Mountainview,Japanese,62,Yes,Good,3 .1,2.9,Seniors,10
+Delicious Bites,Downtown,Japanese,41,Yes,Good,3 .1,2.2,Adults,7
+Dine Divine,Suburbs,Italian,17,No,Average,1 .1,1.9,Adults,2
+Tasty Treats,City Center,Thai,22,No,Average,3 .1,2.7,Kids,6
+Savory Stop,Downtown,Thai,87,Yes,Average,4 .1,3.5,Teens,10
+Savory Stop,Riverside,Indian,46,No,Poor,5 .1,2.3,Teens,1
+Dine Divine,Seaside,Japanese,41,Yes,Average,4 .1,4.7,Teens,4
+Savory Stop,Mountainview,Indian,58,No,Excellent,2 .1,3,Seniors,10
+Dine Divine,Riverside,Italian,71,Yes,Excellent,3 .1,4.1,Seniors,1
+Urban Eateries,Seaside,Thai,43,Yes,Poor,3 .1,4.1,Kids,10
+Gourmet Corner,Uptown,American,28,No,Good,3 .1,3.7,Adults,3
+Savory Stop,Suburbs,Chinese,48,No,Average,2 .1,3.5,Adults,5
+Urban Eateries,Suburbs,Italian,55,Yes,Poor,4 .1,4.6,Kids,6
+Tasty Treats,Suburbs,Italian,63,No,Average,4 .1,1.6,Teens,7
+Food Paradise,Mountainview,Japanese,94,Yes,Excellent,5 .1,1.5,Teens,9
+Savory Stop,Downtown,Japanese,60,Yes,Poor,2 .1,3,Seniors,7
+Food Paradise,Riverside,Chinese,19,No,Poor,1 .1,2.8,Teens,9
+Tasty Treats,Mountainview,Thai,71,Yes,Average,5 .1,4.3,Seniors,7
+Culinary Delight,City Center,Chinese,91,No,Excellent,2 .1,4.2,Kids,6
+Savory Stop,Seaside,Japanese,10,Yes,Poor,5 .1,4.4,Adults,9
+Urban Eateries,Suburbs,Italian,68,No,Excellent,4 .1,3.6,Adults,7
+Urban Eateries,Mountainview,American,50,No,Average,1 .1,2.3,Kids,1
+Delicious Bites,Riverside,Mediterranean,21,No,Average,3 .1,2.3,Teens,2
+Dine Divine,City Center,Italian,36,Yes,Excellent,5 .1,1.5,Seniors,1
+Gourmet Corner,Suburbs,Mediterranean,24,Yes,Average,2 .1,4.5,Kids,3
+Urban Eateries,Suburbs,Thai,72,Yes,Average,5 .1,2.2,Teens,1
+Savory Stop,Downtown,Chinese,72,No,Good,3 .1,4.8,Seniors,1
+Gourmet Corner,Seaside,Mexican,73,No,Poor,2 .1,3.5,Kids,8
+Culinary Delight,Downtown,Italian,31,No,Average,2 .1,4.3,Adults,1
+Savory Stop,Uptown,Italian,77,Yes,Good,1 .1,2.7,Kids,10
+Culinary Delight,City Center,American,93,No,Good,4 .1,2.7,Seniors,8
+Delicious Bites,Riverside,Chinese,52,Yes,Average,3 .1,3,Teens,5
+Tasty Treats,Riverside,Thai,34,No,Excellent,2 .1,4.3,Teens,2
+Savory Stop,Mountainview,Mexican,54,No,Average,3 .1,1.8,Kids,4
+Savory Stop,Uptown,Thai,84,Yes,Poor,3 .1,4.9,Kids,9
+Culinary Delight,Riverside,Indian,65,Yes,Good,1 .1,3.8,Kids,4
+Savory Stop,Seaside,Italian,83,No,Excellent,1 .1,1.3,Seniors,6
+Food Paradise,Mountainview,Indian,39,No,Good,4 .1,1.7,Teens,3
+Savory Stop,Seaside,Mediterranean,12,No,Good,2 .1,4.4,Teens,1
+Tasty Treats,Suburbs,Italian,37,No,Excellent,3 .1,4.9,Seniors,1
+Tasty Treats,Downtown,Japanese,50,No,Average,4 .1,4.4,Teens,9
+Gourmet Corner,Mountainview,Indian,54,Yes,Good,3 .1,3.9,Teens,6
+Savory Stop,City Center,American,90,No,Excellent,2 .1,3.2,Kids,3
+Food Paradise,City Center,Chinese,79,Yes,Poor,2 .1,3.2,Teens,4
+Food Paradise,City Center,American,17,No,Excellent,2 .1,1.1,Teens,8
+Tasty Treats,Downtown,Chinese,19,No,Good,4 .1,1.9,Adults,3
+Savory Stop,City Center,Indian,87,No,Good,1 .1,5,Adults,8
+Savory Stop,City Center,Mediterranean,57,No,Poor,5 .1,4.4,Seniors,3
+Dine Divine,Suburbs,Mediterranean,52,Yes,Good,4 .1,4,Seniors,8
+Food Paradise,Downtown,Mexican,71,No,Excellent,2 .1,3.7,Adults,7
+Delicious Bites,Mountainview,Thai,61,Yes,Good,5 .1,2.8,Kids,7
+Delicious Bites,Mountainview,Italian,38,Yes,Average,2 .1,2.3,Kids,4
+Dine Divine,City Center,Chinese,73,No,Average,1 .1,4.3,Teens,5
+Food Paradise,Mountainview,Mexican,61,Yes,Poor,2 .1,4.1,Teens,9
+Urban Eateries,Riverside,Mediterranean,19,Yes,Excellent,1 .1,5,Kids,9
+Delicious Bites,Riverside,Thai,45,Yes,Poor,5 .1,4.1,Teens,7
+Gourmet Corner,Downtown,Thai,73,Yes,Average,5 .1,2.1,Teens,9
+Gourmet Corner,Uptown,American,92,No,Good,3 .1,4.5,Kids,7
+Tasty Treats,Mountainview,Indian,12,Yes,Good,4 .1,4.1,Adults,3
+Gourmet Corner,Suburbs,Chinese,17,Yes,Excellent,5 .1,3.4,Adults,6
+Tasty Treats,Mountainview,American,43,No,Poor,4 .1,3.1,Teens,3
+Dine Divine,City Center,Thai,26,Yes,Excellent,2 .1,4.9,Seniors,9
+Urban Eateries,City Center,Chinese,11,No,Excellent,5 .1,1.9,Adults,1
+Delicious Bites,Seaside,Thai,25,Yes,Poor,3 .1,5,Seniors,7
+Urban Eateries,Downtown,Chinese,84,No,Poor,4 .1,1.8,Kids,5
+Dine Divine,Uptown,American,17,No,Good,2 .1,2.3,Kids,5
+Tasty Treats,Downtown,Thai,88,Yes,Poor,4 .1,1.6,Kids,10
+Food Paradise,Seaside,Mediterranean,90,Yes,Excellent,5 .1,1.6,Seniors,5
+Delicious Bites,Uptown,Japanese,64,Yes,Average,5 .1,2.9,Adults,1
+Delicious Bites,City Center,American,30,No,Good,5 .1,2.1,Seniors,5
+Dine Divine,City Center,Thai,12,No,Average,4 .1,2.6,Kids,1
+Urban Eateries,Uptown,Indian,70,No,Poor,3 .1,4,Seniors,9
+Delicious Bites,Downtown,Thai,83,No,Average,5 .1,1.1,Seniors,5
+Delicious Bites,Downtown,American,40,Yes,Excellent,1 .1,4,Seniors,4
+Tasty Treats,Downtown,American,10,No,Poor,2 .1,2.4,Kids,1
+Savory Stop,Mountainview,Italian,95,No,Good,2 .1,3.7,Adults,4
+Dine Divine,Suburbs,Japanese,22,No,Good,5 .1,3.1,Teens,5
+Savory Stop,Riverside,Thai,53,Yes,Excellent,5 .1,4,Seniors,10
+Culinary Delight,Mountainview,Chinese,17,No,Good,4 .1,2.4,Kids,6
+Gourmet Corner,Downtown,Indian,56,No,Good,4 .1,2.4,Adults,9
+Gourmet Corner,Uptown,Mediterranean,26,Yes,Excellent,3 .1,4.6,Seniors,6
+Dine Divine,Seaside,Mexican,87,Yes,Good,1 .1,3.8,Adults,10
+Urban Eateries,Riverside,Mexican,61,No,Excellent,1 .1,4.9,Adults,5
+Savory Stop,Downtown,Chinese,99,Yes,Poor,2 .1,2.5,Kids,1
+Delicious Bites,Seaside,Mediterranean,16,No,Good,3 .1,2.9,Kids,1
+Savory Stop,Uptown,Indian,47,Yes,Good,1 .1,2.7,Teens,5
+Tasty Treats,Seaside,Indian,70,No,Excellent,4 .1,3.9,Adults,5
+Delicious Bites,Seaside,Indian,21,No,Excellent,3 .1,3.8,Kids,10
+Tasty Treats,Seaside,Thai,50,Yes,Average,2 .1,3.6,Kids,8
+Delicious Bites,Mountainview,Japanese,69,Yes,Excellent,3 .1,4.8,Seniors,2
+Savory Stop,Seaside,Mexican,44,Yes,Good,3 .1,2.7,Adults,8
+Savory Stop,Riverside,Mediterranean,97,Yes,Good,2 .1,4,Seniors,9
+Dine Divine,Mountainview,American,97,Yes,Poor,4 .1,1.8,Seniors,5
+Culinary Delight,Seaside,Indian,52,No,Poor,1 .1,4.9,Seniors,5
+Savory Stop,Riverside,American,57,Yes,Excellent,3 .1,3.5,Seniors,1
+Urban Eateries,City Center,Italian,53,Yes,Average,3 .1,4.4,Seniors,1
+Gourmet Corner,City Center,Mediterranean,96,Yes,Poor,4 .1,4.7,Teens,8
+Delicious Bites,Mountainview,Italian,52,No,Average,3 .1,2.2,Seniors,6
+Culinary Delight,Downtown,Thai,74,No,Average,1 .1,2.6,Teens,10
+Gourmet Corner,Downtown,Mediterranean,35,No,Good,3 .1,3.3,Kids,2
+Gourmet Corner,Riverside,Chinese,57,Yes,Average,5 .1,1.8,Seniors,4
+Delicious Bites,City Center,Japanese,24,No,Excellent,2 .1,1.7,Teens,4
+Culinary Delight,Suburbs,Mediterranean,57,Yes,Excellent,2 .1,5,Teens,9
+Dine Divine,Downtown,Mediterranean,20,Yes,Good,2 .1,3.6,Teens,3
+Delicious Bites,Seaside,Indian,51,No,Poor,4 .1,2.6,Kids,10
+Food Paradise,Mountainview,American,97,No,Average,2 .1,4,Seniors,2
+Tasty Treats,Mountainview,Indian,40,No,Average,2 .1,1.9,Kids,1
+Food Paradise,City Center,Thai,10,Yes,Poor,2 .1,3.5,Kids,9
+Savory Stop,Suburbs,Mediterranean,71,Yes,Good,3 .1,4.5,Teens,7
+Delicious Bites,Riverside,Japanese,18,Yes,Poor,3 .1,3.4,Seniors,7
+Delicious Bites,Mountainview,Mediterranean,78,No,Average,3 .1,1.5,Adults,4
+Gourmet Corner,Mountainview,Chinese,51,No,Poor,1 .1,1.4,Teens,6
+Dine Divine,Seaside,Japanese,18,Yes,Average,4 .1,5,Adults,4
+Delicious Bites,Seaside,Chinese,18,No,Good,2 .1,2.1,Adults,10
+Gourmet Corner,Downtown,Japanese,73,Yes,Average,5 .1,1.4,Teens,6
+Tasty Treats,Seaside,American,39,No,Excellent,4 .1,3.9,Teens,8
+Food Paradise,Mountainview,Indian,85,Yes,Good,1 .1,3.1,Adults,5
+Gourmet Corner,City Center,Mexican,83,Yes,Average,1 .1,2.6,Kids,8
+Dine Divine,Downtown,Indian,94,Yes,Poor,3 .1,2,Kids,6
+Gourmet Corner,Downtown,Mexican,23,No,Excellent,5 .1,3.4,Adults,1
+Delicious Bites,City Center,Chinese,27,No,Poor,2 .1,4.3,Kids,4
+Delicious Bites,Suburbs,Chinese,63,Yes,Average,1 .1,2.1,Adults,10
+Food Paradise,City Center,Indian,39,No,Excellent,3 .1,3,Teens,4
+Food Paradise,Mountainview,Chinese,80,Yes,Average,5 .1,1.4,Kids,10
+Food Paradise,Riverside,Italian,88,No,Good,3 .1,1.7,Adults,5
+Savory Stop,Mountainview,Indian,19,No,Good,4 .1,1.2,Kids,3
+Savory Stop,Downtown,Chinese,68,Yes,Good,5 .1,2.4,Adults,6
+Food Paradise,Seaside,Italian,31,Yes,Good,5 .1,3.3,Kids,2
+Gourmet Corner,Mountainview,Thai,13,No,Excellent,3 .1,1,Seniors,2
+Urban Eateries,Suburbs,Thai,19,Yes,Average,2 .1,3.8,Adults,1
+Urban Eateries,Riverside,American,35,Yes,Average,1 .1,4.4,Teens,2
+Culinary Delight,Riverside,Mediterranean,73,No,Good,3 .1,3.1,Seniors,10
+Gourmet Corner,City Center,Mexican,46,No,Poor,2 .1,1,Seniors,6
+Delicious Bites,Suburbs,Japanese,51,No,Average,5 .1,1.6,Adults,7
+Culinary Delight,Downtown,Italian,13,No,Poor,1 .1,4.1,Kids,4
+Urban Eateries,Downtown,Chinese,49,No,Average,3 .1,3.2,Adults,9
+Delicious Bites,Uptown,Japanese,20,Yes,Excellent,3 .1,1,Teens,7
+Savory Stop,Riverside,Mediterranean,43,No,Good,1 .1,1.3,Adults,3
+Food Paradise,Mountainview,Thai,13,Yes,Average,4 .1,1.5,Kids,5
+Urban Eateries,Seaside,American,55,No,Excellent,3 .1,4.8,Adults,5
+Savory Stop,Riverside,Mediterranean,27,Yes,Poor,3 .1,1.1,Teens,6
+Savory Stop,Riverside,Italian,42,No,Poor,4 .1,2.7,Adults,5
+Culinary Delight,Mountainview,Indian,88,Yes,Poor,5 .1,1.3,Seniors,8
+Delicious Bites,Mountainview,American,72,No,Poor,1 .1,3.4,Kids,4
+Urban Eateries,Suburbs,American,34,Yes,Poor,1 .1,4.6,Seniors,6
+Culinary Delight,City Center,American,51,Yes,Average,2 .1,3.1,Teens,5
+Savory Stop,Downtown,Thai,57,Yes,Poor,3 .1,1.4,Seniors,4
+Gourmet Corner,Riverside,Chinese,71,Yes,Good,1 .1,2.9,Adults,4
+Gourmet Corner,Downtown,Thai,26,No,Good,5 .1,1,Seniors,5
+Savory Stop,Mountainview,Indian,14,No,Excellent,3 .1,3,Seniors,1
+Culinary Delight,Uptown,Thai,83,No,Good,5 .1,4.1,Kids,7
+Savory Stop,Mountainview,Chinese,44,No,Average,4 .1,4.2,Adults,1
+Tasty Treats,City Center,Thai,10,No,Excellent,4 .1,2.4,Teens,7
+Savory Stop,Riverside,Mediterranean,34,Yes,Good,3 .1,3.4,Teens,8
+Urban Eateries,Riverside,Mexican,45,No,Poor,4 .1,3.6,Kids,8
+Culinary Delight,City Center,Japanese,89,No,Good,4 .1,1.2,Adults,3
+Dine Divine,City Center,Chinese,75,Yes,Good,1 .1,4,Seniors,2
+Gourmet Corner,Downtown,American,95,Yes,Average,4 .1,4.3,Seniors,4
+Dine Divine,City Center,Thai,46,Yes,Excellent,3 .1,3.3,Adults,2
+Delicious Bites,Mountainview,Japanese,43,No,Poor,4 .1,3.9,Adults,8
+Urban Eateries,Riverside,Thai,18,No,Poor,1 .1,3.1,Teens,7
+Gourmet Corner,City Center,American,64,Yes,Average,1 .1,1.5,Adults,1
+Urban Eateries,City Center,Italian,42,No,Good,4 .1,3.4,Adults,6
+Urban Eateries,Uptown,Indian,49,No,Poor,4 .1,3.5,Kids,1
+Food Paradise,Riverside,Japanese,73,Yes,Excellent,3 .1,1.7,Adults,5
+Gourmet Corner,Riverside,Mexican,95,Yes,Excellent,2 .1,3.4,Seniors,10
+Tasty Treats,Seaside,American,55,Yes,Average,3 .1,3,Teens,7
+Savory Stop,Suburbs,Mediterranean,24,No,Poor,2 .1,3.1,Kids,4
+Urban Eateries,Uptown,Mexican,23,Yes,Excellent,4 .1,3.2,Kids,8
+Dine Divine,Suburbs,Mexican,32,Yes,Poor,1 .1,1.9,Seniors,5
+Food Paradise,Downtown,Italian,67,No,Average,2 .1,1.9,Teens,8
+Gourmet Corner,Downtown,Mediterranean,42,Yes,Average,3 .1,1,Kids,4
+Urban Eateries,Mountainview,Chinese,84,Yes,Good,3 .1,3.3,Teens,4
+Delicious Bites,Mountainview,Thai,68,Yes,Good,4 .1,4.6,Teens,10
+Urban Eateries,City Center,Japanese,83,No,Average,5 .1,2.1,Kids,9
+Urban Eateries,Mountainview,Mexican,33,Yes,Good,5 .1,4.5,Kids,6
+Urban Eateries,Riverside,Mexican,64,No,Good,3 .1,4,Adults,4
+Gourmet Corner,Downtown,Italian,58,Yes,Average,1 .1,4.7,Teens,9
+Savory Stop,Downtown,Japanese,36,Yes,Good,1 .1,4.1,Kids,7
+Urban Eateries,Mountainview,Italian,53,Yes,Average,5 .1,4.3,Teens,8
+Dine Divine,Seaside,Thai,36,Yes,Excellent,5 .1,2.5,Adults,10
+Savory Stop,Downtown,Thai,43,Yes,Poor,5 .1,3.5,Seniors,6
+Savory Stop,Uptown,Mediterranean,77,Yes,Excellent,3 .1,1,Teens,3
+Urban Eateries,Seaside,Indian,47,Yes,Excellent,2 .1,4.4,Adults,8
+Dine Divine,Downtown,Chinese,58,Yes,Poor,1 .1,3.3,Kids,7
+Tasty Treats,City Center,Japanese,19,No,Poor,3 .1,3.1,Teens,5
+Dine Divine,Seaside,Japanese,15,Yes,Good,5 .1,4.8,Adults,7
+Food Paradise,Suburbs,Italian,75,No,Excellent,4 .1,1.5,Teens,5
+Urban Eateries,City Center,Japanese,70,Yes,Good,5 .1,4.2,Teens,10
+Dine Divine,Suburbs,Mediterranean,44,Yes,Average,2 .1,2.8,Teens,3
+Dine Divine,Seaside,Chinese,19,Yes,Excellent,3 .1,1.8,Teens,9
+Delicious Bites,Downtown,Italian,72,Yes,Poor,1 .1,4.9,Teens,4
+Savory Stop,Seaside,Mexican,67,Yes,Average,4 .1,2.5,Kids,9
+Delicious Bites,Mountainview,American,14,Yes,Average,5 .1,4.2,Seniors,2
+Dine Divine,Suburbs,Chinese,50,Yes,Excellent,1 .1,2.1,Teens,10
+Gourmet Corner,Seaside,Thai,31,No,Poor,5 .1,2.4,Seniors,3
+Savory Stop,Riverside,Indian,36,No,Excellent,5 .1,4.5,Seniors,1
+Savory Stop,Downtown,Chinese,81,Yes,Good,2 .1,2.4,Kids,2
+Culinary Delight,Uptown,Japanese,47,Yes,Good,3 .1,2.4,Teens,8
+Gourmet Corner,Downtown,Mediterranean,12,Yes,Poor,3 .1,2.7,Adults,2
+Dine Divine,Riverside,Mexican,76,No,Poor,5 .1,3.5,Kids,4
+Tasty Treats,Riverside,Mexican,60,No,Good,4 .1,4.1,Seniors,3
+Culinary Delight,Uptown,American,87,No,Excellent,2 .1,3.4,Kids,8
+Urban Eateries,Riverside,Indian,44,No,Excellent,5 .1,1.8,Teens,8
+Culinary Delight,Uptown,American,90,Yes,Good,3 .1,4.9,Teens,1
+Gourmet Corner,Uptown,American,59,Yes,Poor,5 .1,4.7,Seniors,9
+Savory Stop,Suburbs,Japanese,90,Yes,Excellent,4 .1,1.9,Seniors,2
+Culinary Delight,City Center,Japanese,88,No,Poor,2 .1,1.6,Kids,1
+Culinary Delight,Riverside,Mediterranean,61,Yes,Excellent,4 .1,2.9,Kids,6
+Tasty Treats,City Center,Japanese,99,Yes,Average,1 .1,3,Adults,1
+Urban Eateries,Mountainview,Japanese,75,No,Excellent,5 .1,3.7,Adults,1
+Culinary Delight,Riverside,Japanese,48,Yes,Average,3 .1,3.4,Adults,6
+Urban Eateries,Downtown,Thai,73,Yes,Poor,5 .1,3.1,Kids,4
+Food Paradise,Downtown,American,63,Yes,Poor,2 .1,3.5,Kids,4
+Delicious Bites,Mountainview,American,26,No,Average,2 .1,3.4,Teens,4
+Gourmet Corner,Uptown,Italian,17,Yes,Average,3 .1,1.1,Kids,10
+Food Paradise,Mountainview,Mediterranean,99,No,Poor,3 .1,2.5,Teens,4
+Tasty Treats,Suburbs,Indian,51,No,Excellent,5 .1,4.2,Teens,2
+Gourmet Corner,City Center,Mediterranean,86,No,Average,1 .1,4.8,Adults,1
+Gourmet Corner,Seaside,Japanese,13,No,Average,4 .1,2.2,Kids,2
+Gourmet Corner,Downtown,Japanese,59,Yes,Excellent,3 .1,4,Seniors,9
+Savory Stop,Downtown,Mexican,70,Yes,Excellent,1 .1,3,Seniors,1
+Gourmet Corner,Uptown,Italian,10,No,Average,2 .1,1.8,Adults,7
+Dine Divine,Uptown,Thai,86,No,Average,2 .1,4.4,Teens,1
+Culinary Delight,Riverside,Chinese,51,No,Poor,3 .1,4.3,Teens,8
+Culinary Delight,Mountainview,Mexican,90,No,Average,4 .1,4.3,Kids,6
+Gourmet Corner,Uptown,American,54,No,Poor,5 .1,2.9,Seniors,10
+Delicious Bites,Downtown,Japanese,26,Yes,Good,4 .1,1.5,Adults,7
+Gourmet Corner,Downtown,Chinese,87,Yes,Good,2 .1,1,Teens,9
+Tasty Treats,Suburbs,Chinese,14,No,Average,5 .1,2.1,Seniors,6
+Food Paradise,City Center,Mediterranean,43,No,Average,4 .1,4.7,Kids,8
+Tasty Treats,Uptown,Japanese,48,Yes,Poor,2 .1,2.1,Adults,8
+Dine Divine,Riverside,Italian,80,Yes,Average,5 .1,1.9,Kids,10
+Urban Eateries,Mountainview,Chinese,54,No,Good,2 .1,2.8,Kids,5
+Dine Divine,Seaside,Japanese,50,No,Excellent,4 .1,1.8,Adults,10
+Tasty Treats,Mountainview,Mexican,81,Yes,Good,5 .1,3,Kids,8
+Food Paradise,Suburbs,Thai,35,Yes,Average,1 .1,1.5,Kids,10
+Culinary Delight,City Center,Mexican,88,No,Good,5 .1,1.7,Adults,5
+Dine Divine,Downtown,Mexican,25,No,Poor,2 .1,3.2,Teens,6
+Food Paradise,Seaside,Italian,54,No,Poor,3 .1,1.4,Teens,4
+Delicious Bites,Mountainview,Italian,80,No,Excellent,3 .1,4.1,Adults,5
+Food Paradise,Seaside,Italian,47,Yes,Good,5 .1,3.2,Teens,4
+Tasty Treats,Uptown,Italian,50,No,Poor,2 .1,1.1,Kids,9
+Urban Eateries,Downtown,Mexican,36,Yes,Average,3 .1,1,Seniors,5
+Tasty Treats,Mountainview,Japanese,84,No,Average,4 .1,1.2,Seniors,6
+Culinary Delight,Suburbs,Mediterranean,40,No,Poor,4 .1,2.3,Adults,4
+Savory Stop,Riverside,Thai,88,Yes,Good,5 .1,4.4,Teens,8
+Urban Eateries,Seaside,Italian,98,Yes,Good,5 .1,1.6,Adults,2
+Savory Stop,City Center,American,86,No,Good,3 .1,4.2,Adults,6
+Gourmet Corner,City Center,Japanese,41,Yes,Average,5 .1,3.6,Kids,9
+Food Paradise,Uptown,Mexican,88,Yes,Excellent,1 .1,4.1,Seniors,4
+Delicious Bites,Mountainview,Mediterranean,10,No,Average,4 .1,4.6,Adults,2
+Savory Stop,Downtown,Japanese,14,Yes,Good,2 .1,2.9,Teens,3
+Culinary Delight,Mountainview,Japanese,64,No,Excellent,2 .1,1.2,Adults,10
+Culinary Delight,City Center,American,48,Yes,Poor,3 .1,2.1,Seniors,8
+Savory Stop,Uptown,Chinese,84,No,Average,3 .1,3.6,Seniors,1
+Food Paradise,Uptown,Italian,16,No,Good,3 .1,3.2,Kids,10
+Savory Stop,Seaside,Indian,69,No,Average,1 .1,4.8,Teens,9
+Tasty Treats,Downtown,Japanese,77,Yes,Excellent,4 .1,3.9,Adults,8
+Gourmet Corner,Seaside,Chinese,44,Yes,Poor,1 .1,3.5,Adults,5
+Urban Eateries,Riverside,Indian,51,No,Poor,3 .1,4,Kids,7
+Culinary Delight,Suburbs,Chinese,21,Yes,Average,1 .1,1.2,Kids,7
+Food Paradise,Riverside,Mediterranean,67,Yes,Poor,4 .1,3.4,Seniors,7
+Food Paradise,City Center,Japanese,19,No,Average,4 .1,2.6,Seniors,5
+Food Paradise,Seaside,Mexican,10,No,Average,4 .1,4.7,Teens,5
+Urban Eateries,Uptown,Japanese,28,Yes,Average,1 .1,3.6,Seniors,3
+Culinary Delight,Mountainview,Mediterranean,75,No,Poor,5 .1,1.1,Kids,2
+Dine Divine,Mountainview,Italian,16,No,Good,2 .1,1.4,Teens,5
+Savory Stop,Downtown,Italian,17,No,Good,1 .1,4,Seniors,8
+Gourmet Corner,Riverside,Chinese,77,Yes,Excellent,3 .1,1.1,Adults,7
+Delicious Bites,Seaside,Italian,94,Yes,Poor,5 .1,4.4,Kids,8
+Food Paradise,Seaside,American,22,No,Good,5 .1,1.3,Kids,8
+Tasty Treats,Mountainview,American,41,Yes,Poor,1 .1,3.4,Kids,2
+Gourmet Corner,Downtown,American,67,No,Good,3 .1,3.9,Kids,10
+Culinary Delight,Seaside,Chinese,22,No,Poor,5 .1,1.3,Teens,1
+Gourmet Corner,Suburbs,Indian,23,Yes,Good,2 .1,1.5,Teens,8
+Culinary Delight,Suburbs,Chinese,37,Yes,Poor,3 .1,4.3,Kids,2
+Delicious Bites,City Center,Mediterranean,54,No,Excellent,5 .1,3.1,Seniors,1
+Tasty Treats,Suburbs,Chinese,55,Yes,Good,1 .1,3.4,Seniors,3
+Culinary Delight,City Center,Chinese,86,Yes,Good,5 .1,4.8,Adults,6
+Gourmet Corner,City Center,Mexican,17,Yes,Good,1 .1,3.9,Seniors,9
+Delicious Bites,Suburbs,Thai,62,No,Poor,4 .1,3.8,Seniors,2
+Delicious Bites,Uptown,Italian,11,Yes,Poor,4 .1,3.6,Kids,9
+Culinary Delight,Downtown,Japanese,49,No,Excellent,1 .1,2.4,Adults,8
+Food Paradise,Seaside,Chinese,46,Yes,Excellent,1 .1,3.9,Kids,4
+Savory Stop,Riverside,Italian,95,Yes,Excellent,5 .1,4.2,Teens,2
+Dine Divine,Mountainview,Japanese,58,Yes,Poor,2 .1,4.7,Seniors,1
+Urban Eateries,City Center,Chinese,90,Yes,Good,4 .1,2.3,Seniors,1
+Savory Stop,Downtown,American,82,No,Excellent,4 .1,2.7,Teens,9
+Gourmet Corner,Seaside,Chinese,43,Yes,Average,3 .1,4.6,Seniors,3
+Savory Stop,Mountainview,Chinese,37,No,Average,5 .1,1.8,Adults,10
+Culinary Delight,Downtown,American,89,Yes,Excellent,1 .1,2.3,Seniors,8
+Urban Eateries,Uptown,Italian,15,Yes,Poor,1 .1,2.7,Adults,8
+Delicious Bites,Uptown,Thai,43,Yes,Excellent,3 .1,2.6,Seniors,8
+Delicious Bites,Mountainview,Thai,49,Yes,Poor,3 .1,3.6,Kids,6
+Urban Eateries,Mountainview,Chinese,25,Yes,Good,1 .1,4.3,Seniors,1
+Urban Eateries,Downtown,American,99,Yes,Average,2 .1,4.3,Kids,5
+Tasty Treats,Uptown,American,24,Yes,Good,1 .1,3.3,Seniors,10
+Dine Divine,City Center,American,41,No,Excellent,4 .1,2.7,Teens,8
+Culinary Delight,Seaside,Japanese,69,No,Excellent,4 .1,4.5,Adults,1
+Urban Eateries,Downtown,Japanese,35,No,Average,3 .1,1.9,Adults,9
+Gourmet Corner,Uptown,Mexican,27,No,Excellent,1 .1,3.6,Teens,6
+Savory Stop,Seaside,Indian,90,Yes,Excellent,1 .1,2.7,Seniors,4
+Dine Divine,Seaside,Mediterranean,57,Yes,Excellent,4 .1,3.9,Teens,10
+Urban Eateries,Uptown,Chinese,77,No,Average,2 .1,1.7,Seniors,8
+Food Paradise,Riverside,Indian,76,No,Excellent,4 .1,3.5,Adults,2
+Dine Divine,Uptown,American,82,Yes,Poor,4 .1,3.6,Adults,8
+Urban Eateries,City Center,Mexican,68,No,Poor,2 .1,1.9,Seniors,9
+Dine Divine,Suburbs,Mexican,58,Yes,Excellent,2 .1,4.2,Seniors,8
+Culinary Delight,Mountainview,Italian,47,No,Average,5 .1,2,Seniors,9
+Savory Stop,Downtown,Italian,47,No,Excellent,1 .1,2.7,Adults,7
+Dine Divine,Suburbs,Thai,78,No,Average,5 .1,1.5,Adults,5
+Food Paradise,Riverside,American,54,Yes,Excellent,1 .1,5,Teens,7
+Gourmet Corner,Suburbs,Chinese,61,No,Good,4 .1,4.4,Adults,3
+Savory Stop,Riverside,Mediterranean,88,Yes,Average,3 .1,3,Teens,5
+Dine Divine,Downtown,Mexican,24,No,Poor,5 .1,2.8,Kids,5
+Urban Eateries,Riverside,Italian,70,No,Good,4 .1,2.2,Adults,6
+Gourmet Corner,Suburbs,American,71,Yes,Poor,1 .1,1.8,Adults,1
+Savory Stop,Suburbs,Indian,41,Yes,Excellent,4 .1,2.8,Teens,9
+Delicious Bites,Mountainview,Indian,71,Yes,Poor,4 .1,1.1,Kids,6
+Food Paradise,City Center,Indian,59,No,Good,1 .1,4.4,Kids,2
+Savory Stop,Suburbs,Indian,40,Yes,Excellent,2 .1,4.1,Seniors,6
+Tasty Treats,Suburbs,Italian,85,No,Average,2 .1,2.7,Kids,6
+Savory Stop,Suburbs,American,83,No,Excellent,1 .1,4.9,Kids,10
+Savory Stop,Uptown,Japanese,63,No,Good,2 .1,2.7,Teens,7
+Food Paradise,City Center,Indian,69,No,Good,2 .1,1.9,Teens,2
+Gourmet Corner,Riverside,Mediterranean,45,No,Poor,2 .1,1.6,Kids,4
+Tasty Treats,Suburbs,Indian,74,No,Average,2 .1,3.5,Teens,9
+Urban Eateries,City Center,Chinese,38,No,Average,1 .1,2.1,Teens,8
+Urban Eateries,Riverside,Japanese,98,Yes,Poor,2 .1,3.7,Teens,10
+Dine Divine,Uptown,Chinese,28,Yes,Poor,2 .1,4.3,Kids,7
+Tasty Treats,Riverside,Mexican,61,No,Good,5 .1,4.1,Adults,3
+Gourmet Corner,Downtown,Thai,67,Yes,Good,5 .1,1.4,Seniors,5
+Delicious Bites,Uptown,Thai,98,Yes,Average,1 .1,1,Teens,10
+Urban Eateries,Seaside,Italian,47,No,Good,5 .1,2.2,Teens,2
+Culinary Delight,City Center,Mediterranean,79,Yes,Average,2 .1,1.8,Teens,5
+Gourmet Corner,Suburbs,Chinese,72,No,Excellent,1 .1,2.9,Teens,4
+Gourmet Corner,Suburbs,Mediterranean,10,Yes,Poor,5 .1,1,Seniors,3
+Savory Stop,Riverside,Indian,87,No,Good,3 .1,3.5,Kids,10
+Urban Eateries,Downtown,Thai,31,Yes,Average,3 .1,2.2,Kids,10
+Gourmet Corner,Suburbs,American,62,Yes,Poor,1 .1,4.6,Kids,4
+Urban Eateries,Mountainview,Mediterranean,73,No,Poor,3 .1,3.4,Teens,2
+Savory Stop,Seaside,American,22,No,Average,3 .1,3.7,Teens,2
+Delicious Bites,City Center,Italian,26,No,Excellent,5 .1,3.4,Seniors,1
+Tasty Treats,Suburbs,Japanese,38,Yes,Average,2 .1,3.7,Kids,8
+Dine Divine,Seaside,Mexican,96,No,Poor,2 .1,1.3,Kids,1
+Tasty Treats,City Center,Mediterranean,16,Yes,Average,4 .1,4.7,Teens,10
+Savory Stop,Suburbs,Japanese,95,Yes,Excellent,2 .1,2.7,Seniors,6
+Tasty Treats,City Center,American,72,Yes,Excellent,4 .1,3.7,Adults,4
+Food Paradise,Downtown,Japanese,12,Yes,Average,2 .1,1.2,Seniors,4
+Food Paradise,Riverside,American,67,Yes,Excellent,1 .1,1.1,Adults,3
+Delicious Bites,Suburbs,Indian,33,No,Average,3 .1,1.3,Seniors,1
+Delicious Bites,Suburbs,Mediterranean,20,Yes,Poor,1 .1,4,Kids,1
+Urban Eateries,Riverside,Mexican,91,Yes,Average,4 .1,4.5,Seniors,9
+Tasty Treats,Mountainview,Italian,16,No,Excellent,2 .1,1.7,Adults,10
+Food Paradise,Seaside,American,98,Yes,Good,3 .1,3.8,Kids,7
+Savory Stop,Mountainview,Mediterranean,71,Yes,Average,2 .1,3.6,Adults,6
+Gourmet Corner,Seaside,Mediterranean,54,No,Good,4 .1,3.3,Teens,2
+Urban Eateries,City Center,Chinese,63,No,Poor,5 .1,4.4,Adults,4
+Food Paradise,Suburbs,Indian,41,Yes,Poor,1 .1,2.5,Adults,6
+Urban Eateries,Riverside,Thai,23,Yes,Average,3 .1,2.8,Seniors,6
+Gourmet Corner,Riverside,Italian,94,No,Excellent,4 .1,2.3,Adults,1
+Savory Stop,Downtown,Japanese,85,Yes,Excellent,3 .1,4,Teens,4
+Urban Eateries,Seaside,Mediterranean,47,No,Average,4 .1,2,Teens,2
+Savory Stop,Downtown,Mediterranean,71,Yes,Good,3 .1,2.3,Adults,7
+Food Paradise,Riverside,Indian,93,No,Good,1 .1,2,Teens,8
+Tasty Treats,City Center,Thai,74,No,Average,2 .1,3.3,Kids,7
+Urban Eateries,Downtown,American,91,Yes,Good,2 .1,3.3,Kids,2
+Dine Divine,Downtown,Chinese,27,Yes,Good,5 .1,4.4,Adults,5
+Gourmet Corner,City Center,Italian,69,No,Excellent,3 .1,2,Adults,7
+Delicious Bites,Uptown,Indian,93,Yes,Poor,2 .1,3,Kids,3
+Gourmet Corner,Mountainview,Indian,46,No,Average,2 .1,4.7,Adults,1
+Urban Eateries,Downtown,Indian,56,Yes,Poor,1 .1,1.6,Teens,9
+Food Paradise,Seaside,American,15,Yes,Average,5 .1,3,Adults,2
+Urban Eateries,City Center,Indian,20,Yes,Excellent,4 .1,1.7,Adults,6
+Culinary Delight,Downtown,Chinese,66,No,Good,4 .1,2.8,Teens,4
+Urban Eateries,Uptown,Japanese,21,No,Poor,4 .1,3,Kids,10
+Urban Eateries,City Center,American,87,No,Poor,4 .1,1.9,Seniors,7
+Dine Divine,Suburbs,Italian,50,Yes,Good,3 .1,4.4,Seniors,5
+Gourmet Corner,Seaside,Italian,78,Yes,Good,2 .1,3.6,Teens,2
+Food Paradise,Downtown,Mediterranean,51,Yes,Excellent,3 .1,2,Kids,6
+Culinary Delight,Downtown,Mediterranean,83,Yes,Average,1 .1,3.6,Adults,4
+Tasty Treats,Riverside,Japanese,17,Yes,Excellent,2 .1,2.9,Seniors,10
+Food Paradise,Suburbs,Japanese,97,Yes,Poor,5 .1,1.9,Teens,8
+Food Paradise,City Center,Japanese,55,Yes,Excellent,4 .1,4.6,Adults,2
+Food Paradise,City Center,American,61,No,Good,1 .1,1.7,Kids,6
+Delicious Bites,Riverside,Mediterranean,61,Yes,Average,2 .1,4.1,Adults,4
+Delicious Bites,Mountainview,Japanese,80,Yes,Average,2 .1,4.1,Adults,6
+Urban Eateries,Downtown,American,80,No,Poor,4 .1,2.9,Teens,9
+Savory Stop,Riverside,Chinese,19,No,Excellent,2 .1,1.1,Seniors,5
+Delicious Bites,Mountainview,Italian,76,No,Good,3 .1,3.9,Seniors,3
+Savory Stop,Suburbs,Chinese,30,Yes,Excellent,1 .1,4.5,Teens,6
+Tasty Treats,Downtown,Indian,87,No,Average,1 .1,4.6,Kids,5
+Food Paradise,Uptown,Italian,72,Yes,Good,5 .1,2.2,Adults,5
+Culinary Delight,City Center,Italian,43,Yes,Average,2 .1,4.9,Seniors,6
+Tasty Treats,Suburbs,Japanese,17,No,Excellent,4 .1,3.4,Kids,3
+Tasty Treats,Downtown,Mediterranean,91,Yes,Excellent,3 .1,4,Seniors,10
+Tasty Treats,City Center,Chinese,82,No,Excellent,4 .1,3.3,Kids,10
+Savory Stop,Mountainview,Italian,97,No,Good,2 .1,2.6,Adults,10
+Tasty Treats,Riverside,Chinese,67,Yes,Poor,1 .1,3.5,Kids,8
+Savory Stop,Riverside,Indian,53,No,Excellent,3 .1,4,Adults,8
+Tasty Treats,Suburbs,Thai,43,No,Excellent,3 .1,3.8,Teens,3
+Culinary Delight,Uptown,Mediterranean,42,Yes,Average,4 .1,4.6,Kids,7
+Food Paradise,Riverside,Chinese,42,No,Poor,5 .1,4.8,Adults,7
+Tasty Treats,Mountainview,Japanese,35,No,Good,4 .1,1.4,Teens,1
+Dine Divine,Downtown,Mexican,32,No,Excellent,5 .1,1.7,Adults,7
+Food Paradise,City Center,Mexican,81,Yes,Excellent,2 .1,4.9,Seniors,2
+Gourmet Corner,Downtown,Indian,51,No,Excellent,5 .1,3.3,Adults,10
+Food Paradise,Riverside,Chinese,35,Yes,Poor,2 .1,1.6,Teens,7
+Food Paradise,Seaside,Italian,20,Yes,Good,3 .1,2.6,Kids,9
+Tasty Treats,Uptown,Thai,89,Yes,Average,4 .1,3.1,Seniors,10
+Delicious Bites,Downtown,American,28,No,Good,4 .1,4,Adults,5
+Food Paradise,Riverside,Japanese,43,No,Excellent,1 .1,4.8,Kids,3
+Food Paradise,Suburbs,Chinese,96,No,Good,1 .1,4,Adults,5
+Gourmet Corner,Uptown,Mexican,43,No,Excellent,3 .1,3.5,Adults,7
+Tasty Treats,Riverside,Thai,52,No,Excellent,4 .1,1.8,Adults,2
+Gourmet Corner,Seaside,Chinese,27,No,Excellent,2 .1,3.9,Adults,6
+Delicious Bites,City Center,American,41,No,Excellent,4 .1,4.7,Kids,4
+Savory Stop,Seaside,American,23,No,Average,1 .1,2,Seniors,2
+Dine Divine,City Center,Italian,30,Yes,Good,2 .1,2.9,Teens,2
+Food Paradise,Downtown,Mexican,32,Yes,Poor,2 .1,2.9,Adults,9
+Dine Divine,Riverside,Japanese,39,No,Poor,1 .1,3,Seniors,8
+Culinary Delight,Seaside,Italian,59,No,Poor,5 .1,3,Seniors,9
+Savory Stop,City Center,American,72,Yes,Excellent,1 .1,4.4,Seniors,7
+Delicious Bites,Downtown,Italian,73,No,Poor,5 .1,3.3,Adults,3
+Delicious Bites,Mountainview,Thai,64,Yes,Average,5 .1,3.6,Seniors,5
+Tasty Treats,Uptown,Japanese,78,Yes,Excellent,5 .1,1.9,Kids,1
+Food Paradise,Suburbs,Mediterranean,72,No,Average,3 .1,3.9,Seniors,8
+Tasty Treats,Downtown,Thai,10,No,Average,4 .1,2.7,Seniors,2
+Gourmet Corner,Suburbs,Italian,65,Yes,Good,5 .1,1.5,Seniors,5
+Food Paradise,Riverside,Thai,88,No,Good,1 .1,1.3,Teens,6
+Tasty Treats,City Center,Indian,80,No,Good,4 .1,3.2,Kids,6
+Gourmet Corner,Seaside,Chinese,82,No,Good,5 .1,3.9,Kids,7
+Tasty Treats,Downtown,Japanese,57,No,Average,3 .1,3.4,Kids,7
+Savory Stop,Suburbs,Mexican,90,Yes,Good,5 .1,1.9,Kids,6
+Urban Eateries,Mountainview,Mexican,38,No,Good,3 .1,2,Teens,7
+Savory Stop,Downtown,Chinese,95,No,Excellent,2 .1,1.1,Seniors,6
+Dine Divine,Riverside,Mediterranean,30,Yes,Average,3 .1,4.4,Seniors,2
+Culinary Delight,Downtown,American,83,No,Excellent,3 .1,2.3,Kids,6
+Delicious Bites,Downtown,Chinese,33,No,Poor,5 .1,3.2,Teens,9
+Dine Divine,Suburbs,American,30,No,Poor,1 .1,5,Kids,5
+Tasty Treats,Seaside,Mexican,54,Yes,Average,2 .1,1.7,Adults,4
+Dine Divine,Seaside,Mexican,43,Yes,Good,3 .1,3.7,Adults,10
+Dine Divine,City Center,Thai,77,Yes,Excellent,3 .1,3.8,Kids,5
+Food Paradise,Downtown,Japanese,64,Yes,Poor,1 .1,4.3,Kids,2
+Savory Stop,Seaside,Thai,70,Yes,Excellent,2 .1,3.8,Adults,7
+Delicious Bites,Downtown,Mexican,54,No,Average,3 .1,3.6,Kids,3
+Tasty Treats,Mountainview,Mexican,78,Yes,Average,3 .1,1.2,Adults,10
+Urban Eateries,Mountainview,Italian,31,No,Average,1 .1,1.7,Teens,10
+Urban Eateries,Uptown,American,99,No,Poor,1 .1,4.8,Kids,8
+Culinary Delight,Seaside,Mexican,16,No,Excellent,5 .1,2.9,Teens,3
+Tasty Treats,Suburbs,American,25,Yes,Poor,4 .1,4,Seniors,3
+Dine Divine,Riverside,Japanese,34,Yes,Average,4 .1,3,Teens,10
+Culinary Delight,Seaside,Indian,50,No,Excellent,2 .1,4.3,Kids,9
+Tasty Treats,Suburbs,Indian,43,No,Poor,3 .1,3.3,Adults,10
+Food Paradise,Downtown,Chinese,81,Yes,Poor,4 .1,4.1,Adults,6
+Urban Eateries,Riverside,Indian,72,Yes,Poor,5 .1,1.8,Kids,5
+Savory Stop,Downtown,Chinese,80,Yes,Poor,1 .1,3.2,Seniors,7
+Urban Eateries,Suburbs,Thai,80,Yes,Poor,5 .1,2,Kids,1
+Savory Stop,Uptown,Italian,71,Yes,Poor,1 .1,2.2,Teens,3
+Culinary Delight,Riverside,Mexican,80,No,Excellent,1 .1,2.4,Adults,6
+Savory Stop,Seaside,Italian,70,Yes,Average,3 .1,1.8,Teens,9
+Urban Eateries,Suburbs,Mexican,26,No,Average,3 .1,4.4,Kids,9
+Culinary Delight,Mountainview,Italian,78,Yes,Excellent,4 .1,2,Adults,1
+Gourmet Corner,Suburbs,Thai,41,Yes,Poor,3 .1,1.1,Seniors,8
+Savory Stop,Uptown,Mexican,61,No,Average,3 .1,4.6,Teens,10
+Gourmet Corner,Mountainview,Mexican,27,Yes,Average,3 .1,4,Seniors,2
+Food Paradise,Seaside,American,82,No,Excellent,5 .1,3.7,Kids,2
+Culinary Delight,Suburbs,Italian,54,No,Average,5 .1,4.3,Adults,4
+Delicious Bites,Uptown,Indian,72,Yes,Poor,3 .1,1.4,Adults,10
+Tasty Treats,Uptown,Japanese,81,No,Excellent,1 .1,1.6,Teens,7
+Gourmet Corner,Riverside,American,92,No,Average,5 .1,2.4,Kids,7
+Culinary Delight,Suburbs,Italian,80,No,Average,4 .1,1.9,Adults,9
+Savory Stop,Seaside,Italian,40,No,Average,1 .1,3.5,Teens,4
+Food Paradise,Mountainview,Mexican,45,No,Excellent,5 .1,2.5,Kids,10
+Tasty Treats,Riverside,American,69,No,Excellent,1 .1,4.1,Teens,3
+Delicious Bites,Uptown,Thai,58,No,Excellent,3 .1,2.1,Teens,10
+Food Paradise,City Center,Chinese,30,No,Poor,5 .1,2.8,Adults,1
+Food Paradise,Riverside,Mediterranean,34,Yes,Poor,5 .1,2.4,Seniors,8
+Food Paradise,Downtown,Chinese,25,Yes,Excellent,2 .1,1.5,Seniors,7
+Gourmet Corner,Mountainview,Indian,21,Yes,Poor,5 .1,1.4,Seniors,9
+Food Paradise,Suburbs,Thai,29,No,Poor,4 .1,4.7,Teens,6
+Dine Divine,Suburbs,American,44,Yes,Good,3 .1,4.9,Kids,10
+Culinary Delight,City Center,Indian,46,No,Excellent,5 .1,3.9,Teens,10
+Delicious Bites,Downtown,American,38,No,Good,5 .1,2.2,Kids,3
+Delicious Bites,Downtown,Thai,15,Yes,Excellent,3 .1,1.4,Seniors,4
+Savory Stop,Seaside,Mexican,29,Yes,Poor,4 .1,2.4,Seniors,1
+Food Paradise,Riverside,Japanese,56,Yes,Good,4 .1,4.4,Adults,7
+Urban Eateries,Downtown,Thai,17,No,Good,2 .1,4.7,Adults,8
+Gourmet Corner,City Center,Mediterranean,30,Yes,Poor,5 .1,1.5,Kids,6
+Gourmet Corner,Riverside,Mediterranean,87,Yes,Excellent,5 .1,4,Seniors,9
+Gourmet Corner,Seaside,Indian,28,No,Average,1 .1,1.7,Kids,2
+Savory Stop,Seaside,Mediterranean,19,No,Average,4 .1,3.3,Teens,1
+Gourmet Corner,Downtown,Italian,54,Yes,Average,4 .1,3.6,Teens,10
+Savory Stop,Uptown,Indian,69,No,Excellent,4 .1,3.8,Teens,10
+Delicious Bites,Seaside,American,20,Yes,Good,2 .1,4.8,Seniors,4
+Delicious Bites,Mountainview,Indian,77,Yes,Good,3 .1,2.2,Adults,9
+Dine Divine,Suburbs,Thai,51,No,Poor,5 .1,2.1,Adults,3
+Food Paradise,Riverside,American,82,No,Excellent,3 .1,3.4,Teens,3
+Urban Eateries,City Center,Japanese,75,Yes,Average,2 .1,3.1,Seniors,8
+Urban Eateries,Mountainview,Mediterranean,25,Yes,Poor,1 .1,3.3,Teens,8
+Savory Stop,Riverside,Mediterranean,94,Yes,Average,1 .1,2.9,Kids,3
+Savory Stop,Seaside,Japanese,71,Yes,Excellent,5 .1,4.4,Adults,4
+Culinary Delight,Uptown,Indian,96,No,Average,1 .1,2.2,Kids,8
+Culinary Delight,Suburbs,Chinese,90,Yes,Excellent,2 .1,4.1,Seniors,5
+Urban Eateries,Seaside,American,80,No,Good,1 .1,1,Teens,1
+Tasty Treats,Uptown,Indian,84,No,Good,4 .1,3.4,Teens,8
+Tasty Treats,Mountainview,Mexican,90,Yes,Good,1 .1,1.7,Seniors,7
+Savory Stop,Mountainview,Thai,41,No,Poor,5 .1,2.3,Adults,3
+Delicious Bites,Downtown,Chinese,13,Yes,Average,4 .1,3.5,Seniors,7
+Food Paradise,Mountainview,American,57,No,Excellent,4 .1,2.5,Teens,4
+Culinary Delight,City Center,Japanese,19,No,Poor,5 .1,2.5,Adults,5
+Food Paradise,Suburbs,Mediterranean,93,No,Excellent,2 .1,4.5,Kids,5
+Dine Divine,Mountainview,Mexican,81,Yes,Excellent,5 .1,4.2,Kids,10
+Culinary Delight,Suburbs,Thai,31,No,Average,4 .1,4,Seniors,3
+Gourmet Corner,Riverside,Mexican,34,Yes,Good,2 .1,2.4,Seniors,5
+Dine Divine,Downtown,Indian,22,No,Excellent,3 .1,1.9,Teens,10
+Urban Eateries,Seaside,Mediterranean,39,Yes,Average,5 .1,2.1,Kids,10
+Savory Stop,City Center,Mediterranean,56,Yes,Excellent,1 .1,4.6,Teens,9
+Delicious Bites,Riverside,Chinese,19,No,Poor,2 .1,4.2,Teens,7
+Savory Stop,Downtown,Italian,82,Yes,Excellent,2 .1,1.5,Seniors,8
+Gourmet Corner,Uptown,Thai,34,Yes,Average,2 .1,3.6,Seniors,8
+Food Paradise,Suburbs,Indian,76,Yes,Excellent,4 .1,1.4,Seniors,2
+Food Paradise,Riverside,Italian,75,No,Poor,3 .1,4,Adults,8
+Tasty Treats,Downtown,Italian,40,Yes,Average,1 .1,3,Adults,8
+Culinary Delight,Suburbs,Japanese,81,Yes,Excellent,5 .1,1,Teens,9
+Culinary Delight,Riverside,Thai,78,No,Good,4 .1,4.2,Adults,7
+Tasty Treats,City Center,Japanese,90,Yes,Average,4 .1,3.7,Seniors,5
+Tasty Treats,Riverside,Chinese,44,Yes,Good,5 .1,4.3,Teens,2
+Gourmet Corner,Seaside,American,55,Yes,Average,2 .1,3.4,Kids,2
+Savory Stop,Uptown,Chinese,89,Yes,Excellent,5 .1,2.9,Seniors,7
+Culinary Delight,Uptown,Japanese,33,No,Good,2 .1,4.6,Teens,3
+Food Paradise,Mountainview,Indian,70,No,Excellent,5 .1,2.6,Teens,3
+Food Paradise,Downtown,Japanese,19,No,Excellent,3 .1,4.4,Seniors,4
+Delicious Bites,Riverside,Chinese,50,Yes,Excellent,2 .1,1.7,Kids,10
+Savory Stop,Seaside,American,75,No,Average,4 .1,2.4,Teens,4
+Dine Divine,Riverside,Mexican,43,Yes,Average,4 .1,3.4,Seniors,4
+Culinary Delight,Mountainview,Japanese,93,No,Excellent,5 .1,3,Seniors,8
+Tasty Treats,Seaside,Chinese,64,No,Average,1 .1,3.7,Seniors,8
+Urban Eateries,Uptown,American,43,Yes,Poor,1 .1,1.6,Adults,7
+Culinary Delight,Mountainview,Thai,48,No,Poor,5 .1,3.7,Adults,1
+Culinary Delight,City Center,Mexican,80,Yes,Average,2 .1,2.7,Adults,5
+Culinary Delight,Uptown,Chinese,50,No,Poor,4 .1,1.8,Teens,3
+Tasty Treats,Uptown,Italian,59,Yes,Good,5 .1,3.5,Adults,3
+Food Paradise,Mountainview,Indian,45,Yes,Average,1 .1,2.9,Teens,6
+Culinary Delight,Riverside,Mediterranean,66,No,Excellent,5 .1,3.3,Seniors,7
+Gourmet Corner,Downtown,Italian,63,No,Good,5 .1,2,Adults,10
+Culinary Delight,Mountainview,Mexican,67,No,Poor,4 .1,2.8,Seniors,6
+Food Paradise,Riverside,Japanese,86,Yes,Poor,2 .1,2.1,Adults,3
+Urban Eateries,Downtown,Mediterranean,42,Yes,Average,4 .1,1.1,Teens,1
+Food Paradise,Mountainview,Mediterranean,87,No,Average,4 .1,1.5,Teens,9
+Savory Stop,Suburbs,Japanese,15,Yes,Average,5 .1,3.8,Kids,4
+Food Paradise,City Center,Chinese,26,No,Average,2 .1,3.7,Seniors,7
+Dine Divine,Mountainview,Indian,42,No,Good,3 .1,2.7,Adults,1
+Urban Eateries,Downtown,Italian,26,No,Average,2 .1,4,Seniors,1
+Dine Divine,City Center,Indian,41,No,Poor,2 .1,2.9,Seniors,1
+Food Paradise,Downtown,American,33,No,Average,4 .1,2.7,Teens,10
+Food Paradise,Mountainview,Thai,91,Yes,Good,3 .1,2.3,Kids,10
+Dine Divine,Mountainview,Italian,28,Yes,Excellent,3 .1,1.8,Adults,5
+Urban Eateries,Downtown,Japanese,19,No,Good,3 .1,3.9,Seniors,5
+Urban Eateries,Suburbs,Italian,98,Yes,Good,5 .1,3.7,Seniors,4
+Tasty Treats,Uptown,American,37,No,Average,4 .1,1.4,Seniors,3
+Dine Divine,Seaside,Japanese,27,No,Excellent,2 .1,4.3,Kids,1
+Food Paradise,Downtown,American,66,No,Excellent,2 .1,1,Adults,2
+Food Paradise,Riverside,American,68,Yes,Excellent,3 .1,3.4,Kids,4
+Delicious Bites,Mountainview,Chinese,52,No,Excellent,1 .1,2.9,Adults,10
+Savory Stop,Suburbs,Chinese,74,No,Excellent,1 .1,1.9,Seniors,2
+Culinary Delight,Suburbs,Japanese,27,Yes,Poor,3 .1,2.4,Seniors,9
+Dine Divine,Seaside,Mediterranean,54,No,Excellent,1 .1,3.2,Kids,7
+Tasty Treats,City Center,Mexican,13,Yes,Average,5 .1,1.7,Kids,7
+Savory Stop,Uptown,Indian,77,Yes,Poor,3 .1,4.8,Adults,6
+Urban Eateries,Uptown,Mexican,26,Yes,Excellent,2 .1,2.2,Teens,5
+Tasty Treats,Seaside,Mediterranean,13,No,Excellent,1 .1,1.2,Teens,4
+Gourmet Corner,Mountainview,Thai,90,Yes,Excellent,4 .1,2.6,Teens,8
+Savory Stop,Uptown,Japanese,44,No,Average,3 .1,4.2,Adults,3
+Delicious Bites,Downtown,Mediterranean,24,No,Excellent,2 .1,2.9,Adults,7
+Tasty Treats,Mountainview,Chinese,20,Yes,Average,3 .1,4.9,Teens,9
+Gourmet Corner,Uptown,Mediterranean,62,No,Poor,4 .1,1.4,Teens,8
+Gourmet Corner,Downtown,Mediterranean,89,Yes,Excellent,1 .1,3.5,Adults,10
+Urban Eateries,Uptown,Italian,26,Yes,Good,5 .1,2.2,Seniors,2
+Culinary Delight,Seaside,Mediterranean,16,No,Poor,5 .1,2.6,Kids,7
+Gourmet Corner,Suburbs,Mexican,90,No,Poor,4 .1,2,Adults,7
+Tasty Treats,Riverside,Japanese,31,No,Poor,5 .1,4.3,Adults,9
+Food Paradise,Suburbs,Chinese,63,No,Poor,3 .1,2.1,Teens,9
+Delicious Bites,Downtown,Japanese,89,No,Poor,1 .1,1,Adults,3
+Gourmet Corner,City Center,Mexican,86,No,Poor,4 .1,3.6,Teens,5
+Delicious Bites,City Center,Indian,40,Yes,Average,2 .1,4.2,Adults,10
+Urban Eateries,Mountainview,Japanese,20,Yes,Poor,1 .1,2.3,Seniors,4
+Savory Stop,Suburbs,Japanese,78,Yes,Excellent,2 .1,2.4,Teens,8
+Tasty Treats,City Center,Indian,37,Yes,Good,2 .1,4.8,Adults,3
+Culinary Delight,City Center,Italian,21,No,Average,2 .1,3.2,Kids,4
+Culinary Delight,Downtown,Mediterranean,10,No,Good,4 .1,4.3,Teens,3
+Delicious Bites,Riverside,Indian,71,No,Average,3 .1,3.5,Seniors,9
+Urban Eateries,Riverside,American,10,Yes,Excellent,2 .1,1.6,Seniors,9
+Savory Stop,Uptown,Mediterranean,15,No,Good,1 .1,1.3,Teens,3
+Dine Divine,Suburbs,Thai,43,Yes,Good,5 .1,3.7,Adults,9
+Dine Divine,Suburbs,Chinese,34,No,Average,2 .1,1.6,Seniors,3
+Urban Eateries,Uptown,Mediterranean,66,No,Good,4 .1,3.9,Seniors,9
+Dine Divine,Mountainview,American,72,Yes,Good,1 .1,4.5,Adults,10
+Delicious Bites,Riverside,Japanese,61,No,Good,5 .1,2,Seniors,10
+Gourmet Corner,Downtown,Japanese,17,Yes,Poor,5 .1,4.7,Teens,3
+Dine Divine,Suburbs,American,32,No,Poor,4 .1,4.8,Adults,1
+Savory Stop,Downtown,Mediterranean,42,Yes,Poor,1 .1,4.7,Seniors,7
+Delicious Bites,Suburbs,Mexican,58,Yes,Average,3 .1,4.5,Seniors,9
+Culinary Delight,Uptown,Mediterranean,36,Yes,Excellent,5 .1,2.1,Kids,8
+Dine Divine,Uptown,Mexican,13,Yes,Average,4 .1,4.3,Adults,1
+Dine Divine,Uptown,Thai,85,Yes,Average,3 .1,1.4,Adults,7
+Culinary Delight,Seaside,Thai,39,No,Good,4 .1,3.7,Kids,6
+Dine Divine,Downtown,Chinese,33,No,Good,2 .1,4.9,Teens,10
+Urban Eateries,Uptown,Mediterranean,65,No,Poor,1 .1,3.1,Seniors,4
+Dine Divine,Uptown,Italian,25,No,Excellent,5 .1,2.2,Teens,8
+Urban Eateries,Uptown,Chinese,43,No,Poor,5 .1,1.6,Teens,9
+Food Paradise,Mountainview,Mexican,35,No,Good,4 .1,4.2,Seniors,9
+Delicious Bites,Suburbs,Thai,92,Yes,Good,2 .1,2.4,Teens,10
+Gourmet Corner,Suburbs,Mexican,55,No,Excellent,1 .1,3.4,Adults,3
+Food Paradise,City Center,Italian,58,Yes,Good,4 .1,1.7,Teens,6
+Delicious Bites,Downtown,Thai,46,No,Excellent,1 .1,3.6,Kids,9
+Delicious Bites,Seaside,Indian,53,Yes,Average,4 .1,2.2,Adults,9
+Culinary Delight,City Center,Indian,31,Yes,Average,4 .1,2.4,Teens,8
+Culinary Delight,Riverside,Mediterranean,56,No,Average,3 .1,1.4,Adults,6
+Savory Stop,City Center,Thai,29,No,Poor,2 .1,4.8,Seniors,6
+Food Paradise,Downtown,Indian,72,Yes,Excellent,4 .1,4.5,Adults,3
+Culinary Delight,Suburbs,Japanese,16,No,Excellent,3 .1,2.7,Kids,8
+Gourmet Corner,Suburbs,Chinese,61,Yes,Excellent,1 .1,3.5,Adults,4
+Urban Eateries,Uptown,Japanese,22,No,Excellent,1 .1,2,Kids,2
+Gourmet Corner,Seaside,American,44,No,Excellent,1 .1,2.5,Kids,4
+Tasty Treats,Suburbs,Japanese,39,Yes,Excellent,3 .1,1.3,Adults,10
+Urban Eateries,Mountainview,Mediterranean,36,No,Good,1 .1,4.7,Adults,7
+Urban Eateries,Suburbs,Thai,25,Yes,Excellent,4 .1,3.7,Adults,2
+Gourmet Corner,Mountainview,American,10,No,Poor,5 .1,1.9,Kids,10
+Gourmet Corner,Seaside,Thai,43,Yes,Good,4 .1,4.8,Teens,3
+Gourmet Corner,Suburbs,Thai,94,No,Good,1 .1,1.3,Kids,10
+Gourmet Corner,Suburbs,American,100,Yes,Excellent,4 .1,3,Adults,7
+Dine Divine,Mountainview,Mexican,17,Yes,Average,5 .1,5,Kids,10
+Food Paradise,Seaside,Italian,45,Yes,Excellent,4 .1,3.3,Seniors,10
+Delicious Bites,City Center,Mexican,85,Yes,Poor,5 .1,1.4,Adults,4
+Tasty Treats,City Center,American,43,Yes,Average,5 .1,1.3,Teens,4
+Delicious Bites,Downtown,Mediterranean,34,Yes,Average,4 .1,5,Kids,2
+Urban Eateries,City Center,Mexican,62,Yes,Average,2 .1,1.3,Seniors,5
+Gourmet Corner,Suburbs,Mexican,39,Yes,Excellent,1 .1,1,Kids,9
+Dine Divine,Downtown,Chinese,12,No,Excellent,1 .1,3.2,Seniors,3
+Urban Eateries,Downtown,Indian,100,No,Good,3 .1,1.6,Seniors,4
+Dine Divine,City Center,Mediterranean,77,Yes,Good,3 .1,3.3,Teens,4
+Culinary Delight,Riverside,Japanese,63,Yes,Excellent,2 .1,4.4,Teens,1
+Gourmet Corner,Downtown,Japanese,79,No,Excellent,3 .1,2.3,Teens,5
+Savory Stop,Riverside,American,63,Yes,Average,2 .1,1.7,Adults,3
+Culinary Delight,Downtown,Mediterranean,64,No,Excellent,3 .1,4.3,Seniors,4
+Food Paradise,Mountainview,Japanese,72,No,Excellent,1 .1,2.3,Kids,6
+Tasty Treats,Suburbs,American,98,No,Poor,3 .1,1.4,Adults,3
+Gourmet Corner,Mountainview,Thai,90,Yes,Average,2 .1,2.1,Kids,8
+Culinary Delight,City Center,American,57,Yes,Poor,5 .1,4.2,Adults,3
+Culinary Delight,Suburbs,Mediterranean,87,No,Average,3 .1,2,Adults,9
+Tasty Treats,Uptown,Chinese,30,Yes,Average,4 .1,1.2,Seniors,1
+Delicious Bites,Downtown,Japanese,27,No,Poor,2 .1,3.4,Teens,4
+Tasty Treats,Seaside,Japanese,61,No,Poor,1 .1,2.5,Teens,7
+Delicious Bites,Mountainview,Mexican,99,Yes,Good,1 .1,3.1,Adults,5
+Urban Eateries,City Center,Mediterranean,30,No,Poor,2 .1,1.7,Teens,6
+Tasty Treats,City Center,Chinese,85,Yes,Average,1 .1,1.3,Seniors,10
+Gourmet Corner,Downtown,Mediterranean,79,No,Excellent,2 .1,3.5,Kids,8
+Delicious Bites,Uptown,Chinese,70,Yes,Excellent,4 .1,3.4,Seniors,9
+Urban Eateries,City Center,American,84,Yes,Excellent,4 .1,1.3,Kids,5
+Urban Eateries,Mountainview,Chinese,72,No,Excellent,1 .1,1.1,Seniors,6
+Savory Stop,Suburbs,Italian,80,Yes,Good,1 .1,2,Adults,4
+Urban Eateries,Uptown,Chinese,59,No,Good,4 .1,1.5,Adults,5
+Food Paradise,Downtown,Indian,49,No,Good,1 .1,2.7,Kids,1
+Food Paradise,Mountainview,Italian,13,Yes,Good,5 .1,1.5,Adults,9
+Dine Divine,City Center,American,33,No,Excellent,2 .1,2.3,Kids,10
+Culinary Delight,Downtown,Thai,85,No,Average,5 .1,2,Adults,3
+Food Paradise,Downtown,Mediterranean,42,Yes,Poor,5 .1,1.6,Kids,1
+Food Paradise,Downtown,Japanese,63,No,Poor,3 .1,3.6,Teens,10
+Urban Eateries,Suburbs,Indian,54,Yes,Poor,4 .1,2.2,Seniors,9
+Food Paradise,Mountainview,Thai,92,No,Average,1 .1,4.4,Adults,2
+Savory Stop,Seaside,Chinese,67,Yes,Excellent,1 .1,1.1,Kids,5
+Culinary Delight,City Center,American,88,Yes,Average,3 .1,2.1,Adults,6
+Culinary Delight,Suburbs,Thai,28,No,Average,5 .1,1.3,Seniors,2
+Gourmet Corner,Downtown,Thai,74,No,Excellent,3 .1,3,Adults,4
+Savory Stop,Suburbs,Italian,15,No,Poor,2 .1,3.5,Kids,6
+Gourmet Corner,Mountainview,Chinese,36,Yes,Poor,4 .1,1.8,Kids,6
+Delicious Bites,Riverside,Thai,23,Yes,Excellent,5 .1,2.3,Seniors,3
+Dine Divine,Seaside,Mediterranean,24,No,Good,2 .1,3.2,Teens,2
+Food Paradise,Downtown,Chinese,37,No,Poor,1 .1,2.6,Seniors,7
+Savory Stop,Seaside,American,87,Yes,Good,3 .1,2.3,Kids,8
+Gourmet Corner,Suburbs,Thai,57,Yes,Poor,5 .1,4.6,Seniors,10
+Delicious Bites,Uptown,Italian,31,Yes,Good,4 .1,4,Teens,10
+Culinary Delight,Uptown,Japanese,89,Yes,Good,1 .1,1.7,Seniors,4
+Urban Eateries,Downtown,Chinese,94,Yes,Excellent,4 .1,2.7,Seniors,6
+Dine Divine,Mountainview,Mediterranean,95,Yes,Poor,5 .1,4.7,Seniors,8
+Tasty Treats,Mountainview,Indian,42,Yes,Good,5 .1,3.6,Adults,3
+Urban Eateries,Seaside,Italian,69,No,Average,2 .1,4.2,Kids,5
+Delicious Bites,Riverside,Indian,17,Yes,Average,3 .1,3.7,Adults,2
+Gourmet Corner,Suburbs,Thai,17,Yes,Good,2 .1,3,Adults,8
+Culinary Delight,Downtown,Chinese,99,Yes,Poor,5 .1,3.1,Adults,10
+Gourmet Corner,Uptown,Italian,60,No,Average,2 .1,2.2,Seniors,5
+Dine Divine,Riverside,Japanese,92,Yes,Average,1 .1,2.2,Seniors,5
+Culinary Delight,Mountainview,Thai,11,Yes,Average,5 .1,4.9,Kids,8
+Tasty Treats,Suburbs,Chinese,12,No,Excellent,1 .1,2.7,Kids,5
+Savory Stop,Seaside,Mediterranean,89,Yes,Poor,1 .1,1.1,Kids,4
+Tasty Treats,Riverside,Mexican,28,Yes,Poor,5 .1,3.4,Kids,3
+Delicious Bites,Mountainview,Thai,67,No,Average,5 .1,1.7,Teens,1
+Culinary Delight,Downtown,Italian,13,Yes,Good,2 .1,1.4,Kids,6
+Gourmet Corner,Suburbs,Mediterranean,61,Yes,Average,3 .1,2.6,Seniors,5
+Culinary Delight,Mountainview,Thai,92,No,Good,5 .1,3.8,Teens,1
+Delicious Bites,Suburbs,Japanese,50,Yes,Excellent,1 .1,3.1,Seniors,6
+Savory Stop,City Center,American,86,Yes,Poor,2 .1,3.3,Seniors,4
+Culinary Delight,Uptown,Thai,52,Yes,Excellent,1 .1,2.4,Adults,5
+Gourmet Corner,Suburbs,Mexican,48,No,Good,5 .1,4.8,Kids,2
+Tasty Treats,Suburbs,Mexican,21,Yes,Excellent,3 .1,3.6,Kids,8
+Food Paradise,City Center,Thai,86,No,Excellent,3 .1,3.8,Seniors,2
+Delicious Bites,Suburbs,Chinese,36,Yes,Average,3 .1,4.5,Kids,9
+Gourmet Corner,City Center,Japanese,85,No,Excellent,1 .1,2.4,Teens,5
+Delicious Bites,City Center,Italian,31,Yes,Average,2 .1,4.9,Adults,6
+Savory Stop,Suburbs,Mexican,57,No,Average,5 .1,2.1,Seniors,6
+Dine Divine,Uptown,Mexican,33,No,Good,4 .1,3.6,Kids,4
+Savory Stop,Seaside,Thai,76,No,Poor,2 .1,2.7,Adults,4
+Dine Divine,Suburbs,Japanese,27,Yes,Poor,4 .1,3.1,Adults,6
+Tasty Treats,Uptown,Mexican,10,No,Average,5 .1,4.4,Kids,6
+Savory Stop,Uptown,Indian,82,No,Average,2 .1,3.7,Kids,8
+Gourmet Corner,Seaside,Mediterranean,15,Yes,Average,1 .1,3.5,Kids,9
+Savory Stop,City Center,Mediterranean,47,Yes,Excellent,3 .1,2.6,Kids,9
+Savory Stop,Suburbs,Indian,40,Yes,Excellent,1 .1,4.3,Teens,6
+Culinary Delight,Suburbs,Indian,41,No,Good,1 .1,3.8,Adults,1
+Culinary Delight,Downtown,Thai,93,No,Good,2 .1,3.3,Kids,6
+Culinary Delight,Riverside,Thai,76,Yes,Excellent,3 .1,2.5,Kids,1
+Delicious Bites,Mountainview,Italian,45,Yes,Average,3 .1,3,Seniors,1
+Dine Divine,Downtown,Mediterranean,74,Yes,Good,4 .1,2.1,Kids,5
+Tasty Treats,City Center,Italian,99,No,Excellent,5 .1,3.5,Seniors,6
+Culinary Delight,Riverside,Japanese,100,No,Good,2 .1,1.8,Adults,7
+Food Paradise,Downtown,Mediterranean,52,No,Excellent,4 .1,1.7,Kids,10
+Tasty Treats,Mountainview,Indian,100,Yes,Good,5 .1,4.7,Kids,9
+Gourmet Corner,Suburbs,Thai,40,No,Poor,1 .1,2.4,Kids,7
+Culinary Delight,City Center,Chinese,41,No,Good,1 .1,4.2,Kids,3
+Food Paradise,Uptown,Japanese,56,Yes,Poor,3 .1,4.7,Kids,3
+Food Paradise,Downtown,Chinese,36,Yes,Good,5 .1,1.8,Adults,2
+Culinary Delight,Riverside,Mediterranean,36,No,Poor,3 .1,3.1,Adults,7
+Delicious Bites,Suburbs,Mexican,55,Yes,Poor,5 .1,4.5,Teens,8
+Food Paradise,Downtown,Chinese,66,Yes,Excellent,3 .1,4.7,Teens,5
+Tasty Treats,Mountainview,Mexican,93,No,Excellent,1 .1,4.5,Seniors,10
+Dine Divine,Mountainview,Mediterranean,92,Yes,Good,2 .1,3,Seniors,1
+Savory Stop,Suburbs,Mediterranean,50,Yes,Good,3 .1,2.5,Kids,9
+Culinary Delight,Suburbs,Chinese,97,Yes,Average,2 .1,3.1,Adults,6
+Urban Eateries,Riverside,Thai,14,Yes,Good,4 .1,4.7,Seniors,8
+Dine Divine,Uptown,Chinese,68,Yes,Average,1 .1,4.8,Teens,2
+Savory Stop,City Center,Chinese,12,Yes,Poor,3 .1,3.7,Seniors,3
+Food Paradise,City Center,Thai,19,Yes,Good,4 .1,4.2,Teens,8
+Urban Eateries,Uptown,Mexican,64,Yes,Poor,1 .1,2.2,Adults,10
+Food Paradise,Suburbs,Chinese,85,Yes,Average,1 .1,4,Seniors,7
+Culinary Delight,Mountainview,Mediterranean,76,Yes,Poor,2 .1,4.5,Seniors,5
+Gourmet Corner,Riverside,Japanese,68,No,Good,1 .1,2.1,Kids,10
+Dine Divine,Mountainview,Japanese,31,Yes,Poor,5 .1,3.1,Adults,9
+Dine Divine,Riverside,American,29,No,Average,5 .1,3.3,Teens,4
+Tasty Treats,Suburbs,Indian,28,No,Poor,5 .1,3.5,Teens,4
+Tasty Treats,Uptown,Italian,29,Yes,Excellent,1 .1,3.6,Teens,6
+Culinary Delight,Mountainview,Mexican,69,Yes,Poor,1 .1,4.4,Seniors,3
+Gourmet Corner,Riverside,Chinese,81,Yes,Poor,4 .1,1.4,Adults,10
+Delicious Bites,Suburbs,Chinese,29,Yes,Poor,1 .1,3.5,Seniors,10
+Tasty Treats,Uptown,Japanese,87,No,Poor,4 .1,2.9,Adults,1
+Food Paradise,Mountainview,Mediterranean,42,No,Good,1 .1,3.8,Teens,4
+Urban Eateries,Seaside,Mediterranean,82,No,Average,5 .1,1,Teens,1
+Delicious Bites,Riverside,Mexican,55,Yes,Poor,1 .1,4.4,Teens,4
+Dine Divine,Riverside,Chinese,38,Yes,Excellent,3 .1,1.5,Seniors,3
+Gourmet Corner,Riverside,Mexican,33,Yes,Excellent,5 .1,3.9,Teens,1
+Culinary Delight,Suburbs,Indian,61,No,Excellent,3 .1,3.9,Kids,4
+Gourmet Corner,Suburbs,Japanese,24,No,Good,3 .1,3.8,Kids,9
+Culinary Delight,Downtown,Mediterranean,69,No,Good,5 .1,2.1,Kids,1
+Food Paradise,Downtown,Indian,35,No,Good,5 .1,2.4,Teens,6
+Gourmet Corner,Mountainview,Japanese,22,Yes,Average,2 .1,2.7,Seniors,6
+Tasty Treats,Mountainview,Chinese,40,Yes,Excellent,1 .1,2.5,Adults,3
+Culinary Delight,Downtown,American,47,Yes,Excellent,2 .1,1.4,Kids,4
+Tasty Treats,Suburbs,Italian,75,No,Excellent,4 .1,4.2,Kids,2
+Dine Divine,Seaside,Mexican,29,No,Good,4 .1,2,Seniors,5
+Delicious Bites,Downtown,Italian,43,Yes,Excellent,4 .1,4,Kids,3
+Tasty Treats,Suburbs,Thai,18,Yes,Excellent,5 .1,4.5,Kids,8
+Dine Divine,Mountainview,Mediterranean,20,No,Poor,3 .1,1,Seniors,9
+Tasty Treats,Seaside,Mexican,24,No,Good,4 .1,2.8,Teens,8
+Savory Stop,City Center,Mediterranean,24,No,Excellent,3 .1,1.8,Adults,6
+Urban Eateries,Downtown,Thai,57,No,Average,2 .1,1.8,Adults,3
+Delicious Bites,City Center,American,41,Yes,Good,3 .1,3.2,Teens,5
+Food Paradise,Riverside,Mediterranean,48,Yes,Average,1 .1,3,Adults,1
+Delicious Bites,Riverside,Mexican,93,No,Poor,3 .1,4.7,Seniors,3
+Dine Divine,Mountainview,Japanese,74,Yes,Excellent,5 .1,2.8,Teens,9
+Dine Divine,Uptown,Mexican,22,Yes,Excellent,3 .1,3.4,Adults,1
+Dine Divine,Mountainview,Chinese,48,No,Excellent,2 .1,3.8,Seniors,8
+Food Paradise,Uptown,American,54,No,Poor,5 .1,2.5,Seniors,8
+Delicious Bites,Uptown,Japanese,95,Yes,Average,3 .1,2.6,Adults,4
+Urban Eateries,Riverside,Italian,70,No,Excellent,5 .1,3.9,Kids,8
+Gourmet Corner,Downtown,Chinese,37,No,Average,5 .1,1.5,Teens,7
+Savory Stop,Riverside,Indian,87,Yes,Poor,3 .1,1.8,Teens,2
+Tasty Treats,Seaside,Italian,10,Yes,Average,2 .1,3.3,Kids,1
+Urban Eateries,Uptown,Thai,49,Yes,Good,3 .1,3.4,Kids,2
+Food Paradise,Downtown,Italian,12,No,Excellent,2 .1,1.3,Adults,6
+Tasty Treats,Uptown,Indian,12,No,Average,3 .1,2.1,Adults,6
+Food Paradise,Mountainview,Thai,76,No,Poor,2 .1,1.6,Teens,4
+Dine Divine,Uptown,Mediterranean,51,Yes,Average,4 .1,4.5,Teens,10
+Dine Divine,Uptown,Chinese,60,No,Excellent,3 .1,4.8,Adults,6
+Dine Divine,Riverside,Mexican,94,Yes,Excellent,4 .1,4.6,Teens,1
+Urban Eateries,Mountainview,Mediterranean,90,Yes,Excellent,2 .1,4.4,Adults,8
+Dine Divine,Seaside,Mexican,52,No,Good,3 .1,2.8,Adults,5
+Urban Eateries,Uptown,Italian,42,No,Excellent,4 .1,2.9,Kids,6
+Food Paradise,Downtown,American,36,No,Average,1 .1,2.5,Seniors,10
+Gourmet Corner,Seaside,Japanese,63,No,Excellent,1 .1,3.1,Kids,3
+Food Paradise,Suburbs,American,72,Yes,Average,3 .1,1.8,Teens,5
+Delicious Bites,Mountainview,Japanese,58,Yes,Good,1 .1,3.7,Teens,6
+Urban Eateries,Riverside,Thai,11,Yes,Average,5 .1,4.9,Seniors,7
+Culinary Delight,Seaside,Mediterranean,26,Yes,Excellent,4 .1,3.6,Kids,3
+Delicious Bites,Uptown,Indian,13,No,Excellent,2 .1,3.7,Adults,4
+Urban Eateries,Mountainview,Mexican,12,Yes,Good,4 .1,4.8,Seniors,3
+Gourmet Corner,Seaside,Thai,61,Yes,Poor,2 .1,2.8,Kids,1
+Dine Divine,Uptown,Chinese,65,No,Good,3 .1,2.5,Teens,10
+Tasty Treats,City Center,Japanese,75,No,Average,3 .1,4.8,Adults,8
+Dine Divine,Downtown,Chinese,12,Yes,Poor,2 .1,2.2,Seniors,3
+Food Paradise,Suburbs,Mexican,90,Yes,Good,1 .1,4.4,Kids,9
+Delicious Bites,Mountainview,Chinese,36,No,Average,1 .1,3.1,Adults,4
+Dine Divine,Uptown,Indian,17,Yes,Average,2 .1,1.1,Kids,10
+Urban Eateries,Mountainview,Japanese,81,Yes,Good,4 .1,4.7,Kids,7
+Dine Divine,City Center,Italian,14,No,Excellent,4 .1,1.6,Adults,3
+Urban Eateries,Mountainview,Chinese,80,No,Poor,1 .1,1.5,Seniors,3
+Delicious Bites,Downtown,Chinese,54,Yes,Good,5 .1,2,Teens,9
+Gourmet Corner,Seaside,Mexican,33,Yes,Excellent,1 .1,4,Adults,6
+Urban Eateries,Suburbs,Italian,35,No,Average,3 .1,2.8,Kids,4
+Dine Divine,Downtown,Japanese,25,Yes,Excellent,5 .1,1.4,Seniors,5
+Urban Eateries,Suburbs,American,28,Yes,Poor,3 .1,5,Seniors,3
+Urban Eateries,Suburbs,Indian,29,Yes,Good,5 .1,3.1,Teens,9
+Dine Divine,Downtown,Chinese,83,No,Excellent,5 .1,3.2,Adults,5
+Tasty Treats,Riverside,Mexican,60,Yes,Good,5 .1,4.8,Seniors,9
+Tasty Treats,City Center,Indian,56,Yes,Average,5 .1,2.3,Teens,2
+Savory Stop,Downtown,Japanese,18,No,Poor,5 .1,4.9,Adults,7
+Delicious Bites,Mountainview,American,48,No,Poor,3 .1,1.3,Kids,1
+Urban Eateries,Suburbs,Chinese,47,Yes,Excellent,5 .1,1.8,Kids,5
+Food Paradise,City Center,Italian,13,No,Poor,5 .1,2.3,Adults,6
+Food Paradise,Suburbs,Indian,63,No,Poor,4 .1,4,Seniors,2
+Delicious Bites,City Center,Japanese,60,No,Excellent,2 .1,3.5,Seniors,8
+Savory Stop,Riverside,Japanese,19,No,Good,2 .1,3.9,Teens,3
+Tasty Treats,Suburbs,Japanese,93,No,Average,2 .1,1.1,Teens,1
+Savory Stop,Downtown,Mediterranean,22,Yes,Average,1 .1,4.4,Teens,4
+Culinary Delight,Riverside,Indian,20,Yes,Poor,5 .1,1.8,Teens,2
+Dine Divine,Downtown,Japanese,52,Yes,Good,3 .1,1.6,Teens,1
+Savory Stop,City Center,Indian,38,Yes,Poor,5 .1,1.8,Teens,4
+Urban Eateries,City Center,American,23,No,Good,4 .1,3.9,Teens,4
+Delicious Bites,Uptown,Chinese,93,No,Excellent,5 .1,3.1,Adults,10
+Culinary Delight,Suburbs,Italian,10,No,Good,4 .1,3,Adults,4
+Tasty Treats,Seaside,American,22,Yes,Poor,3 .1,3.3,Seniors,9
+Tasty Treats,Suburbs,Mexican,91,Yes,Poor,3 .1,2,Kids,2
+Urban Eateries,Mountainview,Indian,21,No,Poor,3 .1,1.5,Teens,2
+Gourmet Corner,Mountainview,Japanese,25,Yes,Good,3 .1,4.3,Kids,2
+Savory Stop,Downtown,Mediterranean,30,Yes,Average,4 .1,3.9,Adults,4
+Culinary Delight,Seaside,American,73,No,Excellent,5 .1,4.6,Seniors,8
+Urban Eateries,Downtown,Japanese,43,Yes,Average,2 .1,4,Kids,8
+Savory Stop,Mountainview,Thai,32,Yes,Average,3 .1,2.6,Teens,5
+Urban Eateries,Mountainview,Indian,80,No,Average,1 .1,2.4,Teens,3
+Dine Divine,Downtown,Mexican,12,No,Good,4 .1,2.3,Adults,7
+Savory Stop,Downtown,Japanese,31,Yes,Good,1 .1,2.6,Kids,10
+Gourmet Corner,Downtown,Mediterranean,65,No,Average,3 .1,3.8,Adults,9
+Food Paradise,City Center,Thai,70,No,Poor,4 .1,4.6,Adults,9
+Savory Stop,Seaside,American,64,No,Average,2 .1,3.6,Kids,4
+Urban Eateries,Downtown,American,89,Yes,Average,4 .1,4.5,Seniors,4
+Culinary Delight,Riverside,Indian,45,No,Poor,2 .1,3.8,Teens,8
+Culinary Delight,Downtown,Indian,65,No,Poor,1 .1,4.5,Adults,8
+Dine Divine,Riverside,Mediterranean,32,Yes,Average,3 .1,3.7,Seniors,1
+Urban Eateries,Downtown,Mexican,89,No,Excellent,3 .1,2.4,Seniors,1
+Savory Stop,City Center,Indian,72,No,Average,5 .1,4.8,Seniors,6
+Gourmet Corner,City Center,Thai,23,No,Good,5 .1,3.4,Kids,9
+Savory Stop,Uptown,Indian,93,Yes,Average,4 .1,4.2,Adults,1
+Savory Stop,Mountainview,Japanese,11,Yes,Excellent,4 .1,2.1,Seniors,10
+Culinary Delight,Mountainview,Mediterranean,53,Yes,Excellent,4 .1,3.7,Seniors,4
+Gourmet Corner,Downtown,Mediterranean,37,No,Excellent,5 .1,4.2,Adults,4
+Tasty Treats,Mountainview,Mediterranean,53,Yes,Average,1 .1,4.8,Kids,6
+Culinary Delight,Downtown,American,14,No,Average,4 .1,4,Kids,8
+Culinary Delight,Riverside,Japanese,32,Yes,Good,3 .1,1.9,Adults,3
+Dine Divine,Mountainview,Indian,95,Yes,Good,3 .1,4.9,Adults,6
+Tasty Treats,Uptown,Chinese,26,No,Average,2 .1,1.6,Kids,4
+Savory Stop,Mountainview,Thai,21,Yes,Poor,4 .1,1.8,Kids,1
+Savory Stop,Mountainview,American,18,No,Good,4 .1,2.2,Teens,2
+Delicious Bites,Mountainview,Thai,59,No,Average,5 .1,1.1,Seniors,5
+Dine Divine,Uptown,Japanese,10,No,Average,4 .1,4.7,Kids,9
+Urban Eateries,Downtown,American,71,No,Poor,3 .1,4.6,Kids,6
+Culinary Delight,Downtown,Mediterranean,83,No,Good,5 .1,4.5,Kids,5
+Delicious Bites,Uptown,Thai,76,No,Poor,3 .1,2.9,Adults,6
+Dine Divine,Uptown,Japanese,54,No,Average,1 .1,1.8,Adults,4
+Food Paradise,City Center,Thai,87,Yes,Average,1 .1,2.9,Kids,1
+Tasty Treats,Riverside,Thai,18,No,Average,4 .1,2.7,Adults,4
+Savory Stop,Suburbs,Thai,93,No,Good,3 .1,1.4,Teens,1
+Dine Divine,Uptown,Mexican,60,No,Excellent,5 .1,1.3,Teens,6
+Food Paradise,Uptown,Chinese,74,No,Average,3 .1,2.2,Teens,5
+Dine Divine,Uptown,American,77,Yes,Average,2 .1,1.5,Teens,9
+Dine Divine,City Center,Italian,51,No,Good,5 .1,3.7,Kids,7
+Culinary Delight,Seaside,Japanese,19,No,Excellent,5 .1,4.5,Kids,2
+Dine Divine,Mountainview,Mexican,56,Yes,Excellent,3 .1,4.9,Adults,9
+Culinary Delight,Riverside,Italian,84,No,Poor,1 .1,2.7,Teens,7
+Dine Divine,Mountainview,Italian,33,Yes,Average,2 .1,5,Teens,9
+Tasty Treats,Suburbs,Mexican,91,No,Excellent,3 .1,2.8,Adults,8
+Food Paradise,City Center,Mediterranean,79,No,Excellent,5 .1,3.2,Kids,10
+Tasty Treats,Riverside,American,40,No,Excellent,2 .1,1.6,Seniors,1
+Food Paradise,Mountainview,Italian,56,Yes,Good,3 .1,2,Seniors,7
+Food Paradise,Uptown,Mexican,60,No,Excellent,4 .1,4.7,Kids,8
+Culinary Delight,Suburbs,Japanese,38,Yes,Excellent,1 .1,4.3,Seniors,6
+Tasty Treats,Seaside,Indian,68,Yes,Average,3 .1,2.1,Seniors,9
+Gourmet Corner,Mountainview,Chinese,80,Yes,Average,2 .1,4.9,Kids,7
+Savory Stop,Riverside,Indian,74,Yes,Poor,5 .1,4.2,Seniors,1
+Savory Stop,City Center,Mediterranean,79,Yes,Average,3 .1,1,Adults,10
+Tasty Treats,City Center,American,44,Yes,Poor,2 .1,1.4,Seniors,7
+Food Paradise,Downtown,Italian,73,No,Excellent,1 .1,4.4,Teens,7
+Tasty Treats,Mountainview,Thai,31,No,Good,5 .1,2.9,Teens,10
+Gourmet Corner,Riverside,Thai,44,Yes,Average,3 .1,1.2,Seniors,8
+Savory Stop,Seaside,Mexican,68,Yes,Average,3 .1,2.9,Adults,7
+Culinary Delight,Downtown,Italian,60,No,Average,4 .1,3,Teens,7
+Tasty Treats,Suburbs,Mexican,66,No,Average,3 .1,4.8,Adults,2
+Savory Stop,Riverside,Japanese,55,Yes,Excellent,5 .1,3.1,Seniors,4
+Gourmet Corner,Riverside,Chinese,49,No,Poor,4 .1,1.1,Kids,2
+Urban Eateries,Seaside,Japanese,41,No,Good,5 .1,3.6,Kids,7
+Dine Divine,Riverside,American,20,Yes,Poor,5 .1,3.1,Teens,2
+Urban Eateries,Uptown,Thai,13,Yes,Average,2 .1,4.9,Kids,6
+Tasty Treats,Riverside,Mediterranean,47,Yes,Excellent,3 .1,4,Seniors,3
+Urban Eateries,Seaside,Chinese,19,No,Good,2 .1,4.1,Seniors,2
+Dine Divine,Suburbs,Thai,58,Yes,Excellent,5 .1,2.9,Seniors,1
+Culinary Delight,Downtown,Indian,97,Yes,Good,4 .1,1.7,Seniors,5
+Dine Divine,Suburbs,American,21,Yes,Average,2 .1,4.9,Seniors,1
+Gourmet Corner,Mountainview,American,61,Yes,Excellent,3 .1,4.6,Seniors,3
+Gourmet Corner,Downtown,Italian,48,Yes,Good,1 .1,4.6,Kids,7
+Delicious Bites,Mountainview,Japanese,49,No,Poor,1 .1,1.7,Kids,1
+Delicious Bites,Seaside,Japanese,51,Yes,Average,5 .1,1.8,Adults,8
+Dine Divine,Uptown,American,34,No,Poor,5 .1,2.7,Kids,6
+Tasty Treats,Riverside,Indian,12,Yes,Average,2 .1,2.6,Adults,7
+Tasty Treats,Seaside,Indian,21,Yes,Poor,2 .1,3.3,Kids,4
+Tasty Treats,Uptown,Mexican,19,Yes,Poor,1 .1,1.4,Kids,8
+Delicious Bites,Riverside,American,20,Yes,Good,2 .1,4.9,Seniors,3
+Urban Eateries,Mountainview,Mediterranean,84,No,Average,2 .1,4.1,Adults,8
+Tasty Treats,Riverside,Japanese,84,Yes,Poor,1 .1,3.2,Seniors,6
+Culinary Delight,Uptown,Japanese,21,No,Excellent,3 .1,3.8,Teens,8
+Gourmet Corner,Seaside,Mediterranean,51,Yes,Poor,2 .1,1.3,Teens,3
+Urban Eateries,Uptown,Mediterranean,66,Yes,Good,1 .1,4.7,Seniors,2
+Delicious Bites,Seaside,Indian,77,No,Poor,2 .1,4.6,Adults,1
+Urban Eateries,Uptown,Mexican,77,No,Average,5 .1,3.1,Kids,6
+Food Paradise,Downtown,American,66,No,Poor,4 .1,1.3,Kids,4
+Savory Stop,Suburbs,Italian,83,No,Poor,4 .1,2.4,Teens,10
+Food Paradise,Seaside,Indian,77,No,Good,2 .1,1.8,Teens,7
+Gourmet Corner,Downtown,Italian,45,Yes,Good,3 .1,1.8,Seniors,3
+Savory Stop,Mountainview,Chinese,69,No,Excellent,1 .1,2.9,Kids,1
+Urban Eateries,Seaside,Indian,19,No,Excellent,4 .1,4.8,Kids,7
+Gourmet Corner,Uptown,Mediterranean,11,No,Average,3 .1,1.8,Seniors,1
+Urban Eateries,Riverside,Indian,71,Yes,Good,4 .1,1.8,Kids,8
+Tasty Treats,Suburbs,Italian,45,No,Excellent,2 .1,4.5,Seniors,8
+Delicious Bites,Downtown,Italian,100,Yes,Poor,1 .1,2,Adults,8
+Tasty Treats,Seaside,Italian,51,No,Average,3 .1,1.1,Adults,1
+Food Paradise,Mountainview,Mediterranean,11,Yes,Average,2 .1,3.2,Teens,1
+Tasty Treats,Uptown,Thai,87,No,Good,2 .1,3.9,Seniors,1
+Delicious Bites,City Center,Chinese,39,Yes,Good,5 .1,4.9,Seniors,2
+Culinary Delight,City Center,Chinese,38,No,Poor,2 .1,2,Adults,4
+Tasty Treats,Mountainview,Mediterranean,20,No,Poor,4 .1,4.4,Teens,4
+Gourmet Corner,City Center,American,70,No,Poor,3 .1,4.1,Teens,7
+Urban Eateries,Riverside,Italian,89,Yes,Excellent,5 .1,2.2,Seniors,6
+Culinary Delight,City Center,Indian,69,No,Excellent,1 .1,4.2,Kids,6
+Urban Eateries,Downtown,American,22,Yes,Poor,3 .1,2.5,Kids,5
+Dine Divine,Mountainview,Thai,65,Yes,Excellent,1 .1,4.7,Kids,4
+Culinary Delight,Mountainview,Italian,90,Yes,Excellent,3 .1,1.8,Kids,9
+Savory Stop,Downtown,Thai,12,Yes,Average,2 .1,3,Kids,10
+Tasty Treats,Riverside,Mexican,86,Yes,Average,5 .1,4.7,Adults,1
+Culinary Delight,Uptown,Thai,91,Yes,Average,3 .1,1.5,Seniors,4
+Dine Divine,Uptown,Japanese,85,Yes,Excellent,2 .1,4.4,Seniors,10
+Urban Eateries,Seaside,Japanese,37,Yes,Excellent,4 .1,3.5,Adults,7
+Culinary Delight,Mountainview,Mexican,77,Yes,Good,4 .1,4,Seniors,3
+Tasty Treats,Uptown,Indian,32,Yes,Good,3 .1,3.1,Adults,9
+Culinary Delight,Suburbs,Mexican,74,Yes,Average,1 .1,3.8,Seniors,4
+Savory Stop,City Center,American,42,Yes,Good,2 .1,3.9,Adults,10
+Food Paradise,City Center,Mediterranean,44,Yes,Average,4 .1,4.9,Teens,2
+Dine Divine,City Center,Mexican,51,Yes,Average,1 .1,2,Teens,7
+Tasty Treats,Uptown,Chinese,88,Yes,Average,2 .1,2.9,Teens,1
+Gourmet Corner,Uptown,Mexican,51,No,Average,2 .1,1.8,Adults,5
+Dine Divine,Downtown,Italian,82,Yes,Average,5 .1,2.8,Adults,6
+Gourmet Corner,Mountainview,Thai,14,Yes,Excellent,3 .1,3.1,Adults,10
+Dine Divine,Riverside,Italian,75,No,Poor,1 .1,4.8,Teens,1
+Delicious Bites,Uptown,Japanese,96,No,Average,4 .1,3.1,Kids,9
+Dine Divine,Uptown,Mexican,58,No,Excellent,2 .1,2.9,Teens,1
+Tasty Treats,Seaside,Mexican,88,No,Poor,4 .1,3.3,Adults,5
+Urban Eateries,Suburbs,Italian,90,Yes,Excellent,3 .1,1.3,Kids,10
+Tasty Treats,Uptown,Thai,45,No,Average,1 .1,5,Teens,7
+Food Paradise,Uptown,Indian,47,No,Average,5 .1,1.1,Kids,1
+Food Paradise,City Center,Chinese,28,No,Poor,1 .1,4.5,Teens,3
+Savory Stop,City Center,Mediterranean,99,Yes,Good,1 .1,2.1,Kids,5
+Savory Stop,City Center,Indian,58,No,Good,2 .1,4.4,Seniors,2
+Food Paradise,Mountainview,Mexican,59,Yes,Poor,1 .1,1.9,Teens,6
+Urban Eateries,City Center,American,76,Yes,Good,1 .1,2.5,Teens,3
+Culinary Delight,Suburbs,Mediterranean,65,Yes,Good,4 .1,1.4,Adults,2
+Culinary Delight,Mountainview,American,23,No,Excellent,2 .1,1.5,Seniors,10
+Delicious Bites,Suburbs,American,79,Yes,Good,1 .1,3.1,Adults,7
